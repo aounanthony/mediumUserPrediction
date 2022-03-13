@@ -1,0 +1,1723 @@
+2022-03-12 20:41:58,763 Launching the function collect_medium_accounts
+2022-03-12 20:41:58,763 Launching the function get_medium_page_data
+2022-03-12 20:41:58,766 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:00,181 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-12 20:42:01,737 Launching the function predict_medium_account
+2022-03-12 20:42:01,806 Launching the function get_medium_page_data
+2022-03-12 20:42:01,808 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:02,771 https://medium.com:443 "GET /@newsmary HTTP/1.1" 200 None
+2022-03-12 20:42:06,142 Launching the function get_medium_page_data
+2022-03-12 20:42:06,144 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:08,730 https://medium.com:443 "GET /@glichfield HTTP/1.1" 301 64
+2022-03-12 20:42:08,734 Starting new HTTPS connection (1): glichfield.medium.com:443
+2022-03-12 20:42:10,277 https://glichfield.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:42:10,731 Launching the function predict_medium_account
+2022-03-12 20:42:10,732 Launching the function get_medium_page_data
+2022-03-12 20:42:10,734 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:12,951 https://medium.com:443 "GET /@dkthomp HTTP/1.1" 200 None
+2022-03-12 20:42:15,615 Launching the function get_medium_page_data
+2022-03-12 20:42:15,617 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:17,196 https://medium.com:443 "GET /@TheAtlantic HTTP/1.1" 200 None
+2022-03-12 20:42:17,511 Launching the function get_medium_page_data
+2022-03-12 20:42:17,513 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:18,612 https://medium.com:443 "GET /@mcwm HTTP/1.1" 301 58
+2022-03-12 20:42:18,615 Starting new HTTPS connection (1): mcwm.medium.com:443
+2022-03-12 20:42:21,622 https://mcwm.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:42:21,778 Launching the function get_medium_page_data
+2022-03-12 20:42:21,780 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:22,588 https://medium.com:443 "GET /@micahsifry HTTP/1.1" 301 64
+2022-03-12 20:42:22,592 Starting new HTTPS connection (1): micahsifry.medium.com:443
+2022-03-12 20:42:24,354 https://micahsifry.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:42:24,525 Launching the function get_medium_page_data
+2022-03-12 20:42:24,527 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:25,497 https://medium.com:443 "GET /@datasociety HTTP/1.1" 301 65
+2022-03-12 20:42:25,500 Starting new HTTPS connection (1): datasociety.medium.com:443
+2022-03-12 20:42:27,073 https://datasociety.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:42:27,236 Launching the function get_medium_page_data
+2022-03-12 20:42:27,238 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:28,095 https://medium.com:443 "GET /@rww HTTP/1.1" 301 57
+2022-03-12 20:42:28,098 Starting new HTTPS connection (1): rww.medium.com:443
+2022-03-12 20:42:29,324 https://rww.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:42:29,494 Launching the function get_medium_page_data
+2022-03-12 20:42:29,496 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:33,738 https://medium.com:443 "GET /@caityjohnstone HTTP/1.1" 301 68
+2022-03-12 20:42:33,741 Starting new HTTPS connection (1): caityjohnstone.medium.com:443
+2022-03-12 20:42:35,603 https://caityjohnstone.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:42:36,279 Launching the function predict_medium_account
+2022-03-12 20:42:36,280 Launching the function get_medium_page_data
+2022-03-12 20:42:36,282 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:37,439 https://medium.com:443 "GET /@clivethompson HTTP/1.1" 301 67
+2022-03-12 20:42:37,442 Starting new HTTPS connection (1): clivethompson.medium.com:443
+2022-03-12 20:42:38,969 https://clivethompson.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:42:39,253 Launching the function predict_medium_account
+2022-03-12 20:42:39,255 Launching the function get_medium_page_data
+2022-03-12 20:42:39,257 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:40,373 https://medium.com:443 "GET /@bobbyarlan HTTP/1.1" 200 None
+2022-03-12 20:42:40,536 Launching the function predict_medium_account
+2022-03-12 20:42:40,537 Launching the function get_medium_page_data
+2022-03-12 20:42:40,538 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:41,582 https://medium.com:443 "GET /@sunnichapman HTTP/1.1" 301 66
+2022-03-12 20:42:41,586 Starting new HTTPS connection (1): sunnichapman.medium.com:443
+2022-03-12 20:42:43,608 https://sunnichapman.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:42:45,268 Launching the function predict_medium_account
+2022-03-12 20:42:45,269 Launching the function get_medium_page_data
+2022-03-12 20:42:45,271 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:46,430 https://medium.com:443 "GET /@davidsperorn HTTP/1.1" 301 66
+2022-03-12 20:42:46,433 Starting new HTTPS connection (1): davidsperorn.medium.com:443
+2022-03-12 20:42:48,793 https://davidsperorn.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:42:48,952 Launching the function predict_medium_account
+2022-03-12 20:42:48,954 Launching the function get_medium_page_data
+2022-03-12 20:42:48,955 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:49,842 https://medium.com:443 "GET /@angeliquelovesinger HTTP/1.1" 200 None
+2022-03-12 20:42:49,978 Launching the function get_medium_page_data
+2022-03-12 20:42:49,980 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:50,907 https://medium.com:443 "GET /@louiseedington HTTP/1.1" 301 68
+2022-03-12 20:42:50,910 Starting new HTTPS connection (1): louiseedington.medium.com:443
+2022-03-12 20:42:53,373 https://louiseedington.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:42:53,927 Launching the function predict_medium_account
+2022-03-12 20:42:53,928 Launching the function get_medium_page_data
+2022-03-12 20:42:53,930 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:55,321 https://medium.com:443 "GET /@regina-clarke7 HTTP/1.1" 301 68
+2022-03-12 20:42:55,324 Starting new HTTPS connection (1): regina-clarke7.medium.com:443
+2022-03-12 20:42:57,050 https://regina-clarke7.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:42:57,585 Launching the function get_medium_page_data
+2022-03-12 20:42:57,587 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:42:59,066 https://medium.com:443 "GET /@amyshearn HTTP/1.1" 301 63
+2022-03-12 20:42:59,069 Starting new HTTPS connection (1): amyshearn.medium.com:443
+2022-03-12 20:43:00,372 https://amyshearn.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:43:00,553 Launching the function get_medium_page_data
+2022-03-12 20:43:00,555 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:01,605 https://medium.com:443 "GET /@umairh HTTP/1.1" 200 None
+2022-03-12 20:43:02,163 Launching the function predict_medium_account
+2022-03-12 20:43:02,164 Launching the function get_medium_page_data
+2022-03-12 20:43:02,165 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:03,598 https://medium.com:443 "GET /@ossiana.tepfenhart HTTP/1.1" 200 None
+2022-03-12 20:43:05,720 Launching the function predict_medium_account
+2022-03-12 20:43:05,721 Launching the function get_medium_page_data
+2022-03-12 20:43:05,723 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:07,304 https://medium.com:443 "GET /@doctorow HTTP/1.1" 301 62
+2022-03-12 20:43:07,307 Starting new HTTPS connection (1): doctorow.medium.com:443
+2022-03-12 20:43:08,973 https://doctorow.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:43:09,346 Launching the function predict_medium_account
+2022-03-12 20:43:09,348 Launching the function get_medium_page_data
+2022-03-12 20:43:09,350 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:10,405 https://medium.com:443 "GET /@propagandopolis HTTP/1.1" 200 None
+2022-03-12 20:43:10,645 Launching the function predict_medium_account
+2022-03-12 20:43:10,646 Launching the function get_medium_page_data
+2022-03-12 20:43:10,648 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:12,340 https://medium.com:443 "GET /@KitKlarenberg HTTP/1.1" 200 None
+2022-03-12 20:43:12,603 Launching the function predict_medium_account
+2022-03-12 20:43:12,604 Launching the function get_medium_page_data
+2022-03-12 20:43:12,606 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:15,824 https://medium.com:443 "GET /@xplk HTTP/1.1" 301 58
+2022-03-12 20:43:15,827 Starting new HTTPS connection (1): xplk.medium.com:443
+2022-03-12 20:43:17,300 https://xplk.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:43:17,441 Launching the function get_medium_page_data
+2022-03-12 20:43:17,443 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:18,568 https://medium.com:443 "GET /@mattyberad HTTP/1.1" 301 64
+2022-03-12 20:43:18,571 Starting new HTTPS connection (1): mattyberad.medium.com:443
+2022-03-12 20:43:19,494 https://mattyberad.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:43:19,662 Launching the function predict_medium_account
+2022-03-12 20:43:19,663 Launching the function get_medium_page_data
+2022-03-12 20:43:19,665 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:20,798 https://medium.com:443 "GET /@caityjohnstone HTTP/1.1" 301 68
+2022-03-12 20:43:20,801 Starting new HTTPS connection (1): caityjohnstone.medium.com:443
+2022-03-12 20:43:24,188 https://caityjohnstone.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:43:24,672 Launching the function get_medium_page_data
+2022-03-12 20:43:24,674 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:25,986 https://medium.com:443 "GET /@charitywater HTTP/1.1" 200 None
+2022-03-12 20:43:26,148 Launching the function predict_medium_account
+2022-03-12 20:43:26,149 Launching the function get_medium_page_data
+2022-03-12 20:43:26,151 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:27,651 https://medium.com:443 "GET /@julialim HTTP/1.1" 200 None
+2022-03-12 20:43:27,810 Launching the function predict_medium_account
+2022-03-12 20:43:27,811 Launching the function get_medium_page_data
+2022-03-12 20:43:27,813 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:28,693 https://medium.com:443 "GET /@ronnadetrick HTTP/1.1" 301 66
+2022-03-12 20:43:28,696 Starting new HTTPS connection (1): ronnadetrick.medium.com:443
+2022-03-12 20:43:34,761 https://ronnadetrick.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:43:35,374 Launching the function predict_medium_account
+2022-03-12 20:43:35,375 Launching the function get_medium_page_data
+2022-03-12 20:43:35,377 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:36,895 https://medium.com:443 "GET /@benjaminlefort HTTP/1.1" 301 68
+2022-03-12 20:43:36,897 Starting new HTTPS connection (1): benjaminlefort.medium.com:443
+2022-03-12 20:43:38,525 https://benjaminlefort.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:43:39,967 Launching the function predict_medium_account
+2022-03-12 20:43:39,969 Launching the function get_medium_page_data
+2022-03-12 20:43:39,970 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:41,015 https://medium.com:443 "GET /@caityjohnstone HTTP/1.1" 301 68
+2022-03-12 20:43:41,018 Starting new HTTPS connection (1): caityjohnstone.medium.com:443
+2022-03-12 20:43:42,508 https://caityjohnstone.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:43:42,835 Launching the function get_medium_page_data
+2022-03-12 20:43:42,837 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:43,737 https://medium.com:443 "GET /@caityjohnstone HTTP/1.1" 301 68
+2022-03-12 20:43:43,741 Starting new HTTPS connection (1): caityjohnstone.medium.com:443
+2022-03-12 20:43:44,938 https://caityjohnstone.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:43:45,101 Launching the function get_medium_page_data
+2022-03-12 20:43:45,103 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:46,549 https://medium.com:443 "GET /@age_of_empathy HTTP/1.1" 200 None
+2022-03-12 20:43:46,718 Launching the function predict_medium_account
+2022-03-12 20:43:46,719 Launching the function get_medium_page_data
+2022-03-12 20:43:46,721 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:48,577 https://medium.com:443 "GET /@dr-mehmet-yildiz HTTP/1.1" 301 70
+2022-03-12 20:43:48,580 Starting new HTTPS connection (1): dr-mehmet-yildiz.medium.com:443
+2022-03-12 20:43:50,843 https://dr-mehmet-yildiz.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:43:51,256 Launching the function predict_medium_account
+2022-03-12 20:43:51,257 Launching the function get_medium_page_data
+2022-03-12 20:43:51,259 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:52,289 https://medium.com:443 "GET /@sara-melissa-frost HTTP/1.1" 301 72
+2022-03-12 20:43:52,292 Starting new HTTPS connection (1): sara-melissa-frost.medium.com:443
+2022-03-12 20:43:53,545 https://sara-melissa-frost.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:43:53,712 Launching the function predict_medium_account
+2022-03-12 20:43:53,714 Launching the function get_medium_page_data
+2022-03-12 20:43:53,715 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:55,123 https://medium.com:443 "GET /@epmcknight HTTP/1.1" 301 64
+2022-03-12 20:43:55,125 Starting new HTTPS connection (1): epmcknight.medium.com:443
+2022-03-12 20:43:57,252 https://epmcknight.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:43:57,420 Launching the function predict_medium_account
+2022-03-12 20:43:57,421 Launching the function get_medium_page_data
+2022-03-12 20:43:57,423 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:43:58,998 https://medium.com:443 "GET /@mikeeisenberg HTTP/1.1" 200 None
+2022-03-12 20:43:59,156 Launching the function get_medium_page_data
+2022-03-12 20:43:59,158 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:00,612 https://medium.com:443 "GET /@renegadeinc HTTP/1.1" 200 None
+2022-03-12 20:44:00,857 Launching the function get_medium_page_data
+2022-03-12 20:44:00,858 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:02,076 https://medium.com:443 "GET /@rww HTTP/1.1" 301 57
+2022-03-12 20:44:02,079 Starting new HTTPS connection (1): rww.medium.com:443
+2022-03-12 20:44:03,185 https://rww.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:44:03,352 Launching the function get_medium_page_data
+2022-03-12 20:44:03,354 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:04,212 https://medium.com:443 "GET /@paulmasonnews HTTP/1.1" 301 67
+2022-03-12 20:44:04,215 Starting new HTTPS connection (1): paulmasonnews.medium.com:443
+2022-03-12 20:44:06,031 https://paulmasonnews.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:44:07,269 Launching the function predict_medium_account
+2022-03-12 20:44:07,270 Launching the function get_medium_page_data
+2022-03-12 20:44:07,272 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:12,461 https://medium.com:443 "GET /@doctorow HTTP/1.1" 301 62
+2022-03-12 20:44:12,464 Starting new HTTPS connection (1): doctorow.medium.com:443
+2022-03-12 20:44:13,886 https://doctorow.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:44:14,286 Launching the function get_medium_page_data
+2022-03-12 20:44:14,288 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:15,622 https://medium.com:443 "GET /@geezenstack444 HTTP/1.1" 301 68
+2022-03-12 20:44:15,626 Starting new HTTPS connection (1): geezenstack444.medium.com:443
+2022-03-12 20:44:19,456 https://geezenstack444.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:44:19,628 Launching the function predict_medium_account
+2022-03-12 20:44:19,629 Launching the function get_medium_page_data
+2022-03-12 20:44:19,631 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:21,700 https://medium.com:443 "GET /@allyfromnola HTTP/1.1" 301 66
+2022-03-12 20:44:21,703 Starting new HTTPS connection (1): allyfromnola.medium.com:443
+2022-03-12 20:44:23,320 https://allyfromnola.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:44:23,973 function returned an Exception with message: 'NoneType' object has no attribute 'findAll'
+2022-03-12 20:44:23,973 Launching the function get_medium_page_data
+2022-03-12 20:44:23,975 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:27,124 https://medium.com:443 "GET /@goodmenproject HTTP/1.1" 301 68
+2022-03-12 20:44:27,127 Starting new HTTPS connection (1): goodmenproject.medium.com:443
+2022-03-12 20:44:28,835 https://goodmenproject.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:44:29,136 Launching the function get_medium_page_data
+2022-03-12 20:44:29,138 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:30,230 https://medium.com:443 "GET /@timdenning HTTP/1.1" 301 64
+2022-03-12 20:44:30,233 Starting new HTTPS connection (1): timdenning.medium.com:443
+2022-03-12 20:44:31,991 https://timdenning.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:44:34,127 Launching the function predict_medium_account
+2022-03-12 20:44:34,128 Launching the function get_medium_page_data
+2022-03-12 20:44:34,130 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:35,877 https://medium.com:443 "GET /@chrissiemassey1023 HTTP/1.1" 301 72
+2022-03-12 20:44:35,880 Starting new HTTPS connection (1): chrissiemassey1023.medium.com:443
+2022-03-12 20:44:37,745 https://chrissiemassey1023.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:44:37,913 Launching the function predict_medium_account
+2022-03-12 20:44:37,915 Launching the function get_medium_page_data
+2022-03-12 20:44:37,916 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:38,969 https://medium.com:443 "GET /@rushkoff HTTP/1.1" 301 62
+2022-03-12 20:44:38,972 Starting new HTTPS connection (1): rushkoff.medium.com:443
+2022-03-12 20:44:40,095 https://rushkoff.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:44:40,265 Launching the function get_medium_page_data
+2022-03-12 20:44:40,267 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:41,150 https://medium.com:443 "GET /@msf-access HTTP/1.1" 301 64
+2022-03-12 20:44:41,153 Starting new HTTPS connection (1): msf-access.medium.com:443
+2022-03-12 20:44:45,404 https://msf-access.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:44:47,175 Launching the function predict_medium_account
+2022-03-12 20:44:47,177 Launching the function get_medium_page_data
+2022-03-12 20:44:47,179 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:48,481 https://medium.com:443 "GET /@micahsifry HTTP/1.1" 301 64
+2022-03-12 20:44:48,484 Starting new HTTPS connection (1): micahsifry.medium.com:443
+2022-03-12 20:44:49,870 https://micahsifry.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:44:50,223 Launching the function get_medium_page_data
+2022-03-12 20:44:50,225 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:51,545 https://medium.com:443 "GET /@clivethompson HTTP/1.1" 301 67
+2022-03-12 20:44:51,548 Starting new HTTPS connection (1): clivethompson.medium.com:443
+2022-03-12 20:44:52,858 https://clivethompson.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:44:53,336 Launching the function get_medium_page_data
+2022-03-12 20:44:53,338 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:56,596 https://medium.com:443 "GET /@_sarahjane_b HTTP/1.1" 200 None
+2022-03-12 20:44:57,570 Launching the function predict_medium_account
+2022-03-12 20:44:57,571 Launching the function get_medium_page_data
+2022-03-12 20:44:57,573 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:44:58,899 https://medium.com:443 "GET /@alexparsons HTTP/1.1" 200 None
+2022-03-12 20:44:59,429 Launching the function predict_medium_account
+2022-03-12 20:44:59,431 Launching the function get_medium_page_data
+2022-03-12 20:44:59,433 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:00,680 https://medium.com:443 "GET /@octopusintell HTTP/1.1" 301 67
+2022-03-12 20:45:00,683 Starting new HTTPS connection (1): octopusintell.medium.com:443
+2022-03-12 20:45:02,699 https://octopusintell.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:03,432 Launching the function predict_medium_account
+2022-03-12 20:45:03,433 Launching the function get_medium_page_data
+2022-03-12 20:45:03,434 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:04,597 https://medium.com:443 "GET /@dawndowney HTTP/1.1" 301 64
+2022-03-12 20:45:04,600 Starting new HTTPS connection (1): dawndowney.medium.com:443
+2022-03-12 20:45:06,503 https://dawndowney.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:06,761 Launching the function predict_medium_account
+2022-03-12 20:45:06,762 Launching the function get_medium_page_data
+2022-03-12 20:45:06,764 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:08,024 https://medium.com:443 "GET /@citationsneeded HTTP/1.1" 301 69
+2022-03-12 20:45:08,026 Starting new HTTPS connection (1): citationsneeded.medium.com:443
+2022-03-12 20:45:09,183 https://citationsneeded.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:09,331 Launching the function predict_medium_account
+2022-03-12 20:45:09,332 Launching the function get_medium_page_data
+2022-03-12 20:45:09,334 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:09,813 https://medium.com:443 "GET /@hak1010 HTTP/1.1" 301 61
+2022-03-12 20:45:09,816 Starting new HTTPS connection (1): hak1010.medium.com:443
+2022-03-12 20:45:11,133 https://hak1010.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:13,119 function returned an Exception with message: 'NoneType' object has no attribute 'findAll'
+2022-03-12 20:45:13,119 Launching the function get_medium_page_data
+2022-03-12 20:45:13,121 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:14,655 https://medium.com:443 "GET /@umairh HTTP/1.1" 200 None
+2022-03-12 20:45:15,971 Launching the function get_medium_page_data
+2022-03-12 20:45:15,973 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:17,611 https://medium.com:443 "GET /@xlauren-mx HTTP/1.1" 301 64
+2022-03-12 20:45:17,614 Starting new HTTPS connection (1): xlauren-mx.medium.com:443
+2022-03-12 20:45:19,014 https://xlauren-mx.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:19,164 Launching the function predict_medium_account
+2022-03-12 20:45:19,165 Launching the function get_medium_page_data
+2022-03-12 20:45:19,167 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:22,021 https://medium.com:443 "GET /@producthunt HTTP/1.1" 200 None
+2022-03-12 20:45:22,182 Launching the function get_medium_page_data
+2022-03-12 20:45:22,184 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:23,622 https://medium.com:443 "GET /@jmacofearth HTTP/1.1" 200 None
+2022-03-12 20:45:23,823 Launching the function get_medium_page_data
+2022-03-12 20:45:23,826 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:24,856 https://medium.com:443 "GET /@bjmendelson HTTP/1.1" 301 65
+2022-03-12 20:45:24,859 Starting new HTTPS connection (1): bjmendelson.medium.com:443
+2022-03-12 20:45:28,208 https://bjmendelson.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:30,223 Launching the function predict_medium_account
+2022-03-12 20:45:30,224 Launching the function get_medium_page_data
+2022-03-12 20:45:30,226 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:31,564 https://medium.com:443 "GET /@chadbozarth HTTP/1.1" 301 65
+2022-03-12 20:45:31,568 Starting new HTTPS connection (1): chadbozarth.medium.com:443
+2022-03-12 20:45:33,105 https://chadbozarth.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:33,333 Launching the function predict_medium_account
+2022-03-12 20:45:33,334 Launching the function get_medium_page_data
+2022-03-12 20:45:33,335 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:34,515 https://medium.com:443 "GET /@stephencrose HTTP/1.1" 301 66
+2022-03-12 20:45:34,518 Starting new HTTPS connection (1): stephencrose.medium.com:443
+2022-03-12 20:45:36,468 https://stephencrose.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:36,985 Launching the function get_medium_page_data
+2022-03-12 20:45:36,987 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:40,423 https://medium.com:443 "GET /@ninaszarka HTTP/1.1" 301 64
+2022-03-12 20:45:40,426 Starting new HTTPS connection (1): ninaszarka.medium.com:443
+2022-03-12 20:45:41,774 https://ninaszarka.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:41,961 Launching the function predict_medium_account
+2022-03-12 20:45:41,962 Launching the function get_medium_page_data
+2022-03-12 20:45:41,964 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:43,321 https://medium.com:443 "GET /@courtneychristine HTTP/1.1" 301 71
+2022-03-12 20:45:43,324 Starting new HTTPS connection (1): courtneychristine.medium.com:443
+2022-03-12 20:45:44,927 https://courtneychristine.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:45,126 Launching the function predict_medium_account
+2022-03-12 20:45:45,128 Launching the function get_medium_page_data
+2022-03-12 20:45:45,130 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:47,875 https://medium.com:443 "GET /@sunnichapman HTTP/1.1" 301 66
+2022-03-12 20:45:47,878 Starting new HTTPS connection (1): sunnichapman.medium.com:443
+2022-03-12 20:45:49,347 https://sunnichapman.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:49,591 Launching the function get_medium_page_data
+2022-03-12 20:45:49,593 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:50,731 https://medium.com:443 "GET /@bingzhuang HTTP/1.1" 301 64
+2022-03-12 20:45:50,734 Starting new HTTPS connection (1): bingzhuang.medium.com:443
+2022-03-12 20:45:52,605 https://bingzhuang.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:52,982 Launching the function predict_medium_account
+2022-03-12 20:45:52,984 Launching the function get_medium_page_data
+2022-03-12 20:45:52,985 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:53,810 https://medium.com:443 "GET /@athirdeyeseer HTTP/1.1" 301 67
+2022-03-12 20:45:53,812 Starting new HTTPS connection (1): athirdeyeseer.medium.com:443
+2022-03-12 20:45:54,825 https://athirdeyeseer.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:54,989 Launching the function predict_medium_account
+2022-03-12 20:45:54,991 Launching the function get_medium_page_data
+2022-03-12 20:45:54,992 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:56,052 https://medium.com:443 "GET /@jeffgoins HTTP/1.1" 200 None
+2022-03-12 20:45:56,247 function returned an Exception with message: 'NoneType' object has no attribute 'findAll'
+2022-03-12 20:45:56,247 Launching the function get_medium_page_data
+2022-03-12 20:45:56,249 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:45:57,861 https://medium.com:443 "GET /@soulfulstrategist HTTP/1.1" 301 71
+2022-03-12 20:45:57,864 Starting new HTTPS connection (1): soulfulstrategist.medium.com:443
+2022-03-12 20:45:59,068 https://soulfulstrategist.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:45:59,236 Launching the function predict_medium_account
+2022-03-12 20:45:59,237 Launching the function get_medium_page_data
+2022-03-12 20:45:59,239 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:00,256 https://medium.com:443 "GET /@judyhansenwriter HTTP/1.1" 301 70
+2022-03-12 20:46:00,259 Starting new HTTPS connection (1): judyhansenwriter.medium.com:443
+2022-03-12 20:46:01,443 https://judyhansenwriter.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:01,625 Launching the function predict_medium_account
+2022-03-12 20:46:01,626 Launching the function get_medium_page_data
+2022-03-12 20:46:01,628 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:02,622 https://medium.com:443 "GET /@georgekao HTTP/1.1" 301 63
+2022-03-12 20:46:02,625 Starting new HTTPS connection (1): georgekao.medium.com:443
+2022-03-12 20:46:04,134 https://georgekao.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:04,609 Launching the function get_medium_page_data
+2022-03-12 20:46:04,611 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:05,964 https://medium.com:443 "GET /@chef-boyardeji HTTP/1.1" 301 68
+2022-03-12 20:46:05,967 Starting new HTTPS connection (1): chef-boyardeji.medium.com:443
+2022-03-12 20:46:07,118 https://chef-boyardeji.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:07,292 Launching the function get_medium_page_data
+2022-03-12 20:46:07,294 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:08,108 https://medium.com:443 "GET /@nickwignall HTTP/1.1" 301 65
+2022-03-12 20:46:08,111 Starting new HTTPS connection (1): nickwignall.medium.com:443
+2022-03-12 20:46:09,503 https://nickwignall.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:09,658 Launching the function predict_medium_account
+2022-03-12 20:46:09,659 Launching the function get_medium_page_data
+2022-03-12 20:46:09,661 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:10,776 https://medium.com:443 "GET /@ngoeke HTTP/1.1" 301 60
+2022-03-12 20:46:10,779 Starting new HTTPS connection (1): ngoeke.medium.com:443
+2022-03-12 20:46:12,337 https://ngoeke.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:12,505 Launching the function predict_medium_account
+2022-03-12 20:46:12,506 Launching the function get_medium_page_data
+2022-03-12 20:46:12,508 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:13,445 https://medium.com:443 "GET /@goodmenproject HTTP/1.1" 301 68
+2022-03-12 20:46:13,448 Starting new HTTPS connection (1): goodmenproject.medium.com:443
+2022-03-12 20:46:14,954 https://goodmenproject.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:15,233 Launching the function get_medium_page_data
+2022-03-12 20:46:15,235 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:16,271 https://medium.com:443 "GET /@timdenning HTTP/1.1" 301 64
+2022-03-12 20:46:16,274 Starting new HTTPS connection (1): timdenning.medium.com:443
+2022-03-12 20:46:17,378 https://timdenning.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:17,656 Launching the function get_medium_page_data
+2022-03-12 20:46:17,658 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:18,603 https://medium.com:443 "GET /@mburg1955 HTTP/1.1" 301 63
+2022-03-12 20:46:18,606 Starting new HTTPS connection (1): mburg1955.medium.com:443
+2022-03-12 20:46:20,563 https://mburg1955.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:20,750 Launching the function get_medium_page_data
+2022-03-12 20:46:20,752 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:21,869 https://medium.com:443 "GET /@kristinagod HTTP/1.1" 301 65
+2022-03-12 20:46:21,872 Starting new HTTPS connection (1): kristinagod.medium.com:443
+2022-03-12 20:46:23,410 https://kristinagod.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:23,615 Launching the function get_medium_page_data
+2022-03-12 20:46:23,617 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:24,888 https://medium.com:443 "GET /@smillewrahcuef HTTP/1.1" 301 68
+2022-03-12 20:46:24,891 Starting new HTTPS connection (1): smillewrahcuef.medium.com:443
+2022-03-12 20:46:28,068 https://smillewrahcuef.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:28,656 Launching the function predict_medium_account
+2022-03-12 20:46:28,657 Launching the function get_medium_page_data
+2022-03-12 20:46:28,659 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:31,793 https://medium.com:443 "GET /@denisejg HTTP/1.1" 301 62
+2022-03-12 20:46:31,796 Starting new HTTPS connection (1): denisejg.medium.com:443
+2022-03-12 20:46:33,495 https://denisejg.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:33,715 Launching the function predict_medium_account
+2022-03-12 20:46:33,716 Launching the function get_medium_page_data
+2022-03-12 20:46:33,718 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:36,652 https://medium.com:443 "GET /@pmansfield HTTP/1.1" 301 64
+2022-03-12 20:46:36,920 Starting new HTTPS connection (1): pmansfield.medium.com:443
+2022-03-12 20:46:39,939 https://pmansfield.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:40,120 Launching the function predict_medium_account
+2022-03-12 20:46:40,122 Launching the function get_medium_page_data
+2022-03-12 20:46:40,123 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:41,356 https://medium.com:443 "GET /@khyatijain01 HTTP/1.1" 301 66
+2022-03-12 20:46:41,359 Starting new HTTPS connection (1): khyatijain01.medium.com:443
+2022-03-12 20:46:43,012 https://khyatijain01.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:43,488 Launching the function predict_medium_account
+2022-03-12 20:46:43,489 Launching the function get_medium_page_data
+2022-03-12 20:46:43,491 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:45,154 https://medium.com:443 "GET /@artisticvoyages HTTP/1.1" 301 69
+2022-03-12 20:46:45,157 Starting new HTTPS connection (1): artisticvoyages.medium.com:443
+2022-03-12 20:46:46,471 https://artisticvoyages.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:47,258 Launching the function predict_medium_account
+2022-03-12 20:46:47,259 Launching the function get_medium_page_data
+2022-03-12 20:46:47,261 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:49,677 https://medium.com:443 "GET /@kristinagod HTTP/1.1" 301 65
+2022-03-12 20:46:49,680 Starting new HTTPS connection (1): kristinagod.medium.com:443
+2022-03-12 20:46:50,859 https://kristinagod.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:46:51,141 Launching the function get_medium_page_data
+2022-03-12 20:46:51,143 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:52,804 https://medium.com:443 "GET /@ash.taralynn HTTP/1.1" 200 None
+2022-03-12 20:46:52,979 Launching the function predict_medium_account
+2022-03-12 20:46:52,980 Launching the function get_medium_page_data
+2022-03-12 20:46:52,982 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:55,674 https://medium.com:443 "GET /@coloradogirl750 HTTP/1.1" 200 None
+2022-03-12 20:46:56,217 Launching the function predict_medium_account
+2022-03-12 20:46:56,218 Launching the function get_medium_page_data
+2022-03-12 20:46:56,220 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:57,481 https://medium.com:443 "GET /@RealCashTech HTTP/1.1" 200 None
+2022-03-12 20:46:57,825 Launching the function get_medium_page_data
+2022-03-12 20:46:57,827 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:46:58,860 https://medium.com:443 "GET /@shainethomas HTTP/1.1" 301 66
+2022-03-12 20:46:58,863 Starting new HTTPS connection (1): shainethomas.medium.com:443
+2022-03-12 20:47:00,122 https://shainethomas.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:47:02,224 Launching the function predict_medium_account
+2022-03-12 20:47:02,225 Launching the function get_medium_page_data
+2022-03-12 20:47:02,227 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:03,350 https://medium.com:443 "GET /@chrissiemassey1023 HTTP/1.1" 301 72
+2022-03-12 20:47:03,353 Starting new HTTPS connection (1): chrissiemassey1023.medium.com:443
+2022-03-12 20:47:06,559 https://chrissiemassey1023.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:47:06,742 Launching the function get_medium_page_data
+2022-03-12 20:47:06,744 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:07,992 https://medium.com:443 "GET /@amharding HTTP/1.1" 200 None
+2022-03-12 20:47:08,163 Launching the function predict_medium_account
+2022-03-12 20:47:08,165 Launching the function get_medium_page_data
+2022-03-12 20:47:08,166 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:08,967 https://medium.com:443 "GET /@joycemuchiri HTTP/1.1" 301 66
+2022-03-12 20:47:08,970 Starting new HTTPS connection (1): joycemuchiri.medium.com:443
+2022-03-12 20:47:11,426 https://joycemuchiri.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:47:11,588 Launching the function predict_medium_account
+2022-03-12 20:47:11,589 Launching the function get_medium_page_data
+2022-03-12 20:47:11,591 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:12,796 https://medium.com:443 "GET /@DFRLab HTTP/1.1" 200 None
+2022-03-12 20:47:12,981 Launching the function get_medium_page_data
+2022-03-12 20:47:12,983 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:14,025 https://medium.com:443 "GET /@umairh HTTP/1.1" 200 None
+2022-03-12 20:47:14,196 Launching the function get_medium_page_data
+2022-03-12 20:47:14,198 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:16,151 https://medium.com:443 "GET /@iranalyst HTTP/1.1" 301 63
+2022-03-12 20:47:16,154 Starting new HTTPS connection (1): iranalyst.medium.com:443
+2022-03-12 20:47:18,799 https://iranalyst.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:47:21,541 Launching the function predict_medium_account
+2022-03-12 20:47:21,542 Launching the function get_medium_page_data
+2022-03-12 20:47:21,544 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:22,939 https://medium.com:443 "GET /@noelito HTTP/1.1" 301 61
+2022-03-12 20:47:22,942 Starting new HTTPS connection (1): noelito.medium.com:443
+2022-03-12 20:47:24,694 https://noelito.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:47:25,070 Launching the function predict_medium_account
+2022-03-12 20:47:25,072 Launching the function get_medium_page_data
+2022-03-12 20:47:25,073 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:26,194 https://medium.com:443 "GET /@doctorow HTTP/1.1" 301 62
+2022-03-12 20:47:26,196 Starting new HTTPS connection (1): doctorow.medium.com:443
+2022-03-12 20:47:27,448 https://doctorow.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:47:27,620 Launching the function get_medium_page_data
+2022-03-12 20:47:27,622 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:29,944 https://medium.com:443 "GET /@kristinagod HTTP/1.1" 301 65
+2022-03-12 20:47:29,947 Starting new HTTPS connection (1): kristinagod.medium.com:443
+2022-03-12 20:47:31,856 https://kristinagod.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:47:32,884 Launching the function get_medium_page_data
+2022-03-12 20:47:32,886 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:36,729 https://medium.com:443 "GET /@friedbologna HTTP/1.1" 301 66
+2022-03-12 20:47:36,732 Starting new HTTPS connection (1): friedbologna.medium.com:443
+2022-03-12 20:47:38,839 https://friedbologna.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:47:39,846 Launching the function predict_medium_account
+2022-03-12 20:47:39,848 Launching the function get_medium_page_data
+2022-03-12 20:47:39,850 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:41,183 https://medium.com:443 "GET /@darrinatkins HTTP/1.1" 301 66
+2022-03-12 20:47:41,186 Starting new HTTPS connection (1): darrinatkins.medium.com:443
+2022-03-12 20:47:44,410 https://darrinatkins.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:47:45,284 Launching the function predict_medium_account
+2022-03-12 20:47:45,285 Launching the function get_medium_page_data
+2022-03-12 20:47:45,287 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:46,317 https://medium.com:443 "GET /@samuraininja62 HTTP/1.1" 301 68
+2022-03-12 20:47:46,323 Starting new HTTPS connection (1): samuraininja62.medium.com:443
+2022-03-12 20:47:47,544 https://samuraininja62.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:47:47,718 Launching the function predict_medium_account
+2022-03-12 20:47:47,719 Launching the function get_medium_page_data
+2022-03-12 20:47:47,721 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:48,646 https://medium.com:443 "GET /@coloradogirl750 HTTP/1.1" 200 None
+2022-03-12 20:47:48,818 Launching the function get_medium_page_data
+2022-03-12 20:47:48,819 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:49,586 https://medium.com:443 "GET /@who HTTP/1.1" 301 57
+2022-03-12 20:47:49,590 Starting new HTTPS connection (1): who.medium.com:443
+2022-03-12 20:47:51,405 https://who.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:47:51,692 Launching the function get_medium_page_data
+2022-03-12 20:47:51,694 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:53,397 https://medium.com:443 "GET /@USAID HTTP/1.1" 200 None
+2022-03-12 20:47:53,577 Launching the function predict_medium_account
+2022-03-12 20:47:53,578 Launching the function get_medium_page_data
+2022-03-12 20:47:53,580 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:56,570 https://medium.com:443 "GET /@umairh HTTP/1.1" 200 None
+2022-03-12 20:47:57,081 Launching the function get_medium_page_data
+2022-03-12 20:47:57,082 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:47:58,153 https://medium.com:443 "GET /@doctorow HTTP/1.1" 301 62
+2022-03-12 20:47:58,157 Starting new HTTPS connection (1): doctorow.medium.com:443
+2022-03-12 20:48:01,974 https://doctorow.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:02,146 Launching the function get_medium_page_data
+2022-03-12 20:48:02,148 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:03,959 https://medium.com:443 "GET /@ryankazanciyan HTTP/1.1" 200 None
+2022-03-12 20:48:04,227 Launching the function predict_medium_account
+2022-03-12 20:48:04,228 Launching the function get_medium_page_data
+2022-03-12 20:48:04,230 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:05,084 https://medium.com:443 "GET /@simonmainwaring HTTP/1.1" 301 69
+2022-03-12 20:48:05,086 Starting new HTTPS connection (1): simonmainwaring.medium.com:443
+2022-03-12 20:48:09,699 https://simonmainwaring.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:10,053 Launching the function predict_medium_account
+2022-03-12 20:48:10,054 Launching the function get_medium_page_data
+2022-03-12 20:48:10,056 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:11,148 https://medium.com:443 "GET /@bluetrue HTTP/1.1" 301 62
+2022-03-12 20:48:11,151 Starting new HTTPS connection (1): bluetrue.medium.com:443
+2022-03-12 20:48:12,177 https://bluetrue.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:12,322 Launching the function get_medium_page_data
+2022-03-12 20:48:12,323 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:13,441 https://medium.com:443 "GET /@renegadeinc HTTP/1.1" 200 None
+2022-03-12 20:48:13,607 Launching the function get_medium_page_data
+2022-03-12 20:48:13,609 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:14,967 https://medium.com:443 "GET /@codepink HTTP/1.1" 200 None
+2022-03-12 20:48:15,162 Launching the function get_medium_page_data
+2022-03-12 20:48:15,164 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:16,203 https://medium.com:443 "GET /@lessig HTTP/1.1" 301 60
+2022-03-12 20:48:16,206 Starting new HTTPS connection (1): medium.lessig.org:443
+2022-03-12 20:48:18,233 https://medium.lessig.org:443 "GET / HTTP/1.1" 307 None
+2022-03-12 20:48:18,481 https://medium.com:443 "GET /m/global-identity?redirectUrl=https%3A%2F%2Fmedium.lessig.org%2F HTTP/1.1" 302 0
+2022-03-12 20:48:19,408 https://medium.lessig.org:443 "GET /?gi=568cb2be8d31 HTTP/1.1" 200 None
+2022-03-12 20:48:19,574 Launching the function predict_medium_account
+2022-03-12 20:48:19,575 Launching the function get_medium_page_data
+2022-03-12 20:48:19,577 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:22,477 https://medium.com:443 "GET /@datasociety HTTP/1.1" 301 65
+2022-03-12 20:48:22,479 Starting new HTTPS connection (1): datasociety.medium.com:443
+2022-03-12 20:48:24,307 https://datasociety.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:24,873 Launching the function get_medium_page_data
+2022-03-12 20:48:24,875 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:26,759 https://medium.com:443 "GET /@nick-barlow HTTP/1.1" 301 65
+2022-03-12 20:48:26,762 Starting new HTTPS connection (1): nick-barlow.medium.com:443
+2022-03-12 20:48:28,002 https://nick-barlow.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:28,158 Launching the function predict_medium_account
+2022-03-12 20:48:28,159 Launching the function get_medium_page_data
+2022-03-12 20:48:28,161 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:30,551 https://medium.com:443 "GET /@dropbox HTTP/1.1" 301 61
+2022-03-12 20:48:30,554 Starting new HTTPS connection (1): dropbox.medium.com:443
+2022-03-12 20:48:31,464 https://dropbox.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:31,620 Launching the function get_medium_page_data
+2022-03-12 20:48:31,622 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:32,653 https://medium.com:443 "GET /@doctorow HTTP/1.1" 301 62
+2022-03-12 20:48:32,656 Starting new HTTPS connection (1): doctorow.medium.com:443
+2022-03-12 20:48:33,822 https://doctorow.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:33,996 Launching the function get_medium_page_data
+2022-03-12 20:48:33,998 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:34,991 https://medium.com:443 "GET /@johnlware HTTP/1.1" 301 63
+2022-03-12 20:48:34,994 Starting new HTTPS connection (1): johnlware.medium.com:443
+2022-03-12 20:48:36,275 https://johnlware.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:36,467 Launching the function predict_medium_account
+2022-03-12 20:48:36,468 Launching the function get_medium_page_data
+2022-03-12 20:48:36,470 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:40,056 https://medium.com:443 "GET /@epmcknight HTTP/1.1" 301 64
+2022-03-12 20:48:40,059 Starting new HTTPS connection (1): epmcknight.medium.com:443
+2022-03-12 20:48:40,980 https://epmcknight.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:41,222 Launching the function get_medium_page_data
+2022-03-12 20:48:41,224 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:42,190 https://medium.com:443 "GET /@Esty2281 HTTP/1.1" 200 None
+2022-03-12 20:48:42,344 Launching the function get_medium_page_data
+2022-03-12 20:48:42,346 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:43,586 https://medium.com:443 "GET /@goodmenproject HTTP/1.1" 301 68
+2022-03-12 20:48:43,589 Starting new HTTPS connection (1): goodmenproject.medium.com:443
+2022-03-12 20:48:45,885 https://goodmenproject.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:46,061 Launching the function get_medium_page_data
+2022-03-12 20:48:46,063 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:46,844 https://medium.com:443 "GET /@stephencrose HTTP/1.1" 301 66
+2022-03-12 20:48:46,847 Starting new HTTPS connection (1): stephencrose.medium.com:443
+2022-03-12 20:48:47,934 https://stephencrose.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:48,074 Launching the function get_medium_page_data
+2022-03-12 20:48:48,076 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:49,030 https://medium.com:443 "GET /@quyma HTTP/1.1" 301 59
+2022-03-12 20:48:49,033 Starting new HTTPS connection (1): quyma.medium.com:443
+2022-03-12 20:48:53,684 https://quyma.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:53,885 Launching the function predict_medium_account
+2022-03-12 20:48:53,886 Launching the function get_medium_page_data
+2022-03-12 20:48:53,888 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:54,943 https://medium.com:443 "GET /@gcorreiawrites HTTP/1.1" 301 68
+2022-03-12 20:48:54,946 Starting new HTTPS connection (1): gcorreiawrites.medium.com:443
+2022-03-12 20:48:56,520 https://gcorreiawrites.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:56,704 Launching the function predict_medium_account
+2022-03-12 20:48:56,706 Launching the function get_medium_page_data
+2022-03-12 20:48:56,708 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:48:57,727 https://medium.com:443 "GET /@mjarceneaux HTTP/1.1" 301 65
+2022-03-12 20:48:57,731 Starting new HTTPS connection (1): mjarceneaux.medium.com:443
+2022-03-12 20:48:58,898 https://mjarceneaux.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:48:59,072 Launching the function predict_medium_account
+2022-03-12 20:48:59,074 Launching the function get_medium_page_data
+2022-03-12 20:48:59,076 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:00,270 https://medium.com:443 "GET /@lizporter2019 HTTP/1.1" 301 67
+2022-03-12 20:49:00,273 Starting new HTTPS connection (1): lizporter2019.medium.com:443
+2022-03-12 20:49:01,844 https://lizporter2019.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:49:02,031 Launching the function predict_medium_account
+2022-03-12 20:49:02,032 Launching the function get_medium_page_data
+2022-03-12 20:49:02,034 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:02,899 https://medium.com:443 "GET /@rstevensalder HTTP/1.1" 301 67
+2022-03-12 20:49:02,902 Starting new HTTPS connection (1): rstevensalder.medium.com:443
+2022-03-12 20:49:04,281 https://rstevensalder.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:49:04,459 Launching the function predict_medium_account
+2022-03-12 20:49:04,460 Launching the function get_medium_page_data
+2022-03-12 20:49:04,462 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:05,561 https://medium.com:443 "GET /@vanessatorre HTTP/1.1" 301 66
+2022-03-12 20:49:05,564 Starting new HTTPS connection (1): vanessatorre.medium.com:443
+2022-03-12 20:49:06,920 https://vanessatorre.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:49:07,089 Launching the function predict_medium_account
+2022-03-12 20:49:07,091 Launching the function get_medium_page_data
+2022-03-12 20:49:07,093 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:07,935 https://medium.com:443 "GET /@papworth45 HTTP/1.1" 301 64
+2022-03-12 20:49:07,938 Starting new HTTPS connection (1): papworth45.medium.com:443
+2022-03-12 20:49:09,035 https://papworth45.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:49:09,199 Launching the function predict_medium_account
+2022-03-12 20:49:09,200 Launching the function get_medium_page_data
+2022-03-12 20:49:09,202 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:10,361 https://medium.com:443 "GET /@louiseedington HTTP/1.1" 301 68
+2022-03-12 20:49:10,364 Starting new HTTPS connection (1): louiseedington.medium.com:443
+2022-03-12 20:49:11,327 https://louiseedington.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:49:11,487 Launching the function get_medium_page_data
+2022-03-12 20:49:11,490 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:12,813 https://medium.com:443 "GET /@stephendalton HTTP/1.1" 301 67
+2022-03-12 20:49:12,816 Starting new HTTPS connection (1): stephendalton.medium.com:443
+2022-03-12 20:49:14,365 https://stephendalton.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:49:14,939 Launching the function predict_medium_account
+2022-03-12 20:49:14,941 Launching the function get_medium_page_data
+2022-03-12 20:49:14,943 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:15,663 https://medium.com:443 "GET /@shainethomas HTTP/1.1" 301 66
+2022-03-12 20:49:15,666 Starting new HTTPS connection (1): shainethomas.medium.com:443
+2022-03-12 20:49:19,424 https://shainethomas.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:49:21,165 function returned an Exception with message: 'NoneType' object has no attribute 'findAll'
+2022-03-12 20:49:21,165 Launching the function get_medium_page_data
+2022-03-12 20:49:21,167 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:22,810 https://medium.com:443 "GET /@2heelsandaface HTTP/1.1" 301 68
+2022-03-12 20:49:22,812 Starting new HTTPS connection (1): 2heelsandaface.medium.com:443
+2022-03-12 20:49:24,539 https://2heelsandaface.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:49:24,859 Launching the function predict_medium_account
+2022-03-12 20:49:24,860 Launching the function get_medium_page_data
+2022-03-12 20:49:24,862 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:27,441 https://medium.com:443 "GET /@thoughtcatalog HTTP/1.1" 301 68
+2022-03-12 20:49:27,445 Starting new HTTPS connection (1): thoughtcatalog.medium.com:443
+2022-03-12 20:49:29,442 https://thoughtcatalog.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:49:30,154 Launching the function get_medium_page_data
+2022-03-12 20:49:30,157 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:34,856 https://medium.com:443 "GET /@busblog HTTP/1.1" 301 61
+2022-03-12 20:49:35,101 Starting new HTTPS connection (1): busblog.medium.com:443
+2022-03-12 20:49:36,757 https://busblog.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:49:37,080 Launching the function get_medium_page_data
+2022-03-12 20:49:37,082 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:38,493 https://medium.com:443 "GET /@doctorow HTTP/1.1" 301 62
+2022-03-12 20:49:38,496 Starting new HTTPS connection (1): doctorow.medium.com:443
+2022-03-12 20:49:39,893 https://doctorow.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:49:40,732 Launching the function get_medium_page_data
+2022-03-12 20:49:40,734 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:42,095 https://medium.com:443 "GET /@clivethompson HTTP/1.1" 301 67
+2022-03-12 20:49:42,098 Starting new HTTPS connection (1): clivethompson.medium.com:443
+2022-03-12 20:49:44,022 https://clivethompson.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:49:45,052 Launching the function get_medium_page_data
+2022-03-12 20:49:45,053 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:46,322 https://medium.com:443 "GET /@kimberlydeussullivan HTTP/1.1" 200 None
+2022-03-12 20:49:46,900 Launching the function get_medium_page_data
+2022-03-12 20:49:46,903 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:48,413 https://medium.com:443 "GET /@stevecase HTTP/1.1" 200 None
+2022-03-12 20:49:49,053 Launching the function predict_medium_account
+2022-03-12 20:49:49,055 Launching the function get_medium_page_data
+2022-03-12 20:49:49,056 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:53,619 https://medium.com:443 "GET /@wilw HTTP/1.1" 301 58
+2022-03-12 20:49:53,622 Starting new HTTPS connection (1): wilw.medium.com:443
+2022-03-12 20:49:56,699 https://wilw.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:49:57,986 Launching the function predict_medium_account
+2022-03-12 20:49:57,988 Launching the function get_medium_page_data
+2022-03-12 20:49:57,989 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:49:59,595 https://medium.com:443 "GET /@benparr HTTP/1.1" 200 None
+2022-03-12 20:50:00,695 Launching the function predict_medium_account
+2022-03-12 20:50:00,696 Launching the function get_medium_page_data
+2022-03-12 20:50:00,698 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:50:03,810 https://medium.com:443 "GET /@mikesturm HTTP/1.1" 301 63
+2022-03-12 20:50:03,813 Starting new HTTPS connection (1): mikesturm.medium.com:443
+2022-03-12 20:50:05,437 https://mikesturm.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:50:06,143 Launching the function predict_medium_account
+2022-03-12 20:50:06,145 Launching the function get_medium_page_data
+2022-03-12 20:50:06,146 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:50:08,993 https://medium.com:443 "GET /@ericsofio HTTP/1.1" 301 63
+2022-03-12 20:50:08,997 Starting new HTTPS connection (1): ericsofio.medium.com:443
+2022-03-12 20:50:11,067 https://ericsofio.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:50:11,929 Launching the function predict_medium_account
+2022-03-12 20:50:11,930 Launching the function get_medium_page_data
+2022-03-12 20:50:11,932 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:50:13,292 https://medium.com:443 "GET /@shanisilver HTTP/1.1" 301 65
+2022-03-12 20:50:13,294 Starting new HTTPS connection (1): shanisilver.medium.com:443
+2022-03-12 20:50:15,104 https://shanisilver.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:50:16,313 Launching the function predict_medium_account
+2022-03-12 20:50:16,314 Launching the function get_medium_page_data
+2022-03-12 20:50:16,315 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:50:17,957 https://medium.com:443 "GET /@ClockworkF HTTP/1.1" 200 None
+2022-03-12 20:50:19,941 Launching the function predict_medium_account
+2022-03-12 20:50:19,942 Launching the function get_medium_page_data
+2022-03-12 20:50:19,944 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:50:22,397 https://medium.com:443 "GET /@treisthename HTTP/1.1" 301 66
+2022-03-12 20:50:22,400 Starting new HTTPS connection (1): treisthename.medium.com:443
+2022-03-12 20:50:26,139 https://treisthename.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:50:27,200 Launching the function predict_medium_account
+2022-03-12 20:50:27,202 Launching the function get_medium_page_data
+2022-03-12 20:50:27,204 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:50:28,855 https://medium.com:443 "GET /@photochopaul HTTP/1.1" 200 None
+2022-03-12 20:50:29,570 Launching the function predict_medium_account
+2022-03-12 20:50:29,571 Launching the function get_medium_page_data
+2022-03-12 20:50:29,572 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:50:30,610 https://medium.com:443 "GET /@ngoeke HTTP/1.1" 301 60
+2022-03-12 20:50:30,613 Starting new HTTPS connection (1): ngoeke.medium.com:443
+2022-03-12 20:50:31,932 https://ngoeke.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:50:33,068 function returned an Exception with message: 'NoneType' object has no attribute 'findAll'
+2022-03-12 20:50:33,068 Launching the function get_medium_page_data
+2022-03-12 20:50:33,070 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:50:34,836 https://medium.com:443 "GET /@gilliansisley HTTP/1.1" 301 67
+2022-03-12 20:50:34,839 Starting new HTTPS connection (1): gilliansisley.medium.com:443
+2022-03-12 20:50:37,767 https://gilliansisley.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:50:38,890 Launching the function predict_medium_account
+2022-03-12 20:50:38,891 Launching the function get_medium_page_data
+2022-03-12 20:50:38,893 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:50:40,395 https://medium.com:443 "GET /@somdutt777 HTTP/1.1" 301 64
+2022-03-12 20:50:40,398 Starting new HTTPS connection (1): somdutt777.medium.com:443
+2022-03-12 20:50:42,588 https://somdutt777.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:50:44,273 Launching the function predict_medium_account
+2022-03-12 20:50:44,274 Launching the function get_medium_page_data
+2022-03-12 20:50:44,276 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:50:46,431 https://medium.com:443 "GET /@ed-it-us HTTP/1.1" 301 62
+2022-03-12 20:50:46,434 Starting new HTTPS connection (1): ed-it-us.medium.com:443
+2022-03-12 20:50:48,334 https://ed-it-us.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:50:50,151 Launching the function predict_medium_account
+2022-03-12 20:50:50,152 Launching the function get_medium_page_data
+2022-03-12 20:50:50,154 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:50:51,570 https://medium.com:443 "GET /@darrinatkins HTTP/1.1" 301 66
+2022-03-12 20:50:51,573 Starting new HTTPS connection (1): darrinatkins.medium.com:443
+2022-03-12 20:50:53,782 https://darrinatkins.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:50:54,470 Launching the function get_medium_page_data
+2022-03-12 20:50:54,472 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:50:57,256 https://medium.com:443 "GET /@stephendalton HTTP/1.1" 301 67
+2022-03-12 20:50:57,259 Starting new HTTPS connection (1): stephendalton.medium.com:443
+2022-03-12 20:50:58,781 https://stephendalton.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:01,815 Launching the function get_medium_page_data
+2022-03-12 20:51:01,817 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:05,107 https://medium.com:443 "GET /@divinepatrickpaul HTTP/1.1" 301 71
+2022-03-12 20:51:05,109 Starting new HTTPS connection (1): divinepatrickpaul.medium.com:443
+2022-03-12 20:51:07,072 https://divinepatrickpaul.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:07,718 Launching the function predict_medium_account
+2022-03-12 20:51:07,720 Launching the function get_medium_page_data
+2022-03-12 20:51:07,721 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:10,570 https://medium.com:443 "GET /@mburg1955 HTTP/1.1" 301 63
+2022-03-12 20:51:10,573 Starting new HTTPS connection (1): mburg1955.medium.com:443
+2022-03-12 20:51:12,120 https://mburg1955.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:12,723 Launching the function get_medium_page_data
+2022-03-12 20:51:12,725 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:14,286 https://medium.com:443 "GET /@timdenning HTTP/1.1" 301 64
+2022-03-12 20:51:14,288 Starting new HTTPS connection (1): timdenning.medium.com:443
+2022-03-12 20:51:16,346 https://timdenning.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:17,436 Launching the function get_medium_page_data
+2022-03-12 20:51:17,438 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:18,868 https://medium.com:443 "GET /@denisejg HTTP/1.1" 301 62
+2022-03-12 20:51:18,871 Starting new HTTPS connection (1): denisejg.medium.com:443
+2022-03-12 20:51:21,620 https://denisejg.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:22,446 Launching the function get_medium_page_data
+2022-03-12 20:51:22,448 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:23,463 https://medium.com:443 "GET /@teodawn HTTP/1.1" 200 None
+2022-03-12 20:51:23,677 Launching the function get_medium_page_data
+2022-03-12 20:51:23,679 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:25,037 https://medium.com:443 "GET /@julialim HTTP/1.1" 200 None
+2022-03-12 20:51:25,195 Launching the function get_medium_page_data
+2022-03-12 20:51:25,197 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:28,410 https://medium.com:443 "GET /@chrismooneysingh HTTP/1.1" 301 70
+2022-03-12 20:51:28,413 Starting new HTTPS connection (1): chrismooneysingh.medium.com:443
+2022-03-12 20:51:29,803 https://chrismooneysingh.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:29,979 Launching the function predict_medium_account
+2022-03-12 20:51:29,980 Launching the function get_medium_page_data
+2022-03-12 20:51:29,982 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:32,887 https://medium.com:443 "GET /@qcpcapital HTTP/1.1" 301 64
+2022-03-12 20:51:32,890 Starting new HTTPS connection (1): qcpcapital.medium.com:443
+2022-03-12 20:51:33,947 https://qcpcapital.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:34,091 Launching the function predict_medium_account
+2022-03-12 20:51:34,092 Launching the function get_medium_page_data
+2022-03-12 20:51:34,094 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:35,226 https://medium.com:443 "GET /@jaceloi HTTP/1.1" 301 61
+2022-03-12 20:51:35,229 Starting new HTTPS connection (1): jaceloi.medium.com:443
+2022-03-12 20:51:36,449 https://jaceloi.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:36,657 Launching the function predict_medium_account
+2022-03-12 20:51:36,658 Launching the function get_medium_page_data
+2022-03-12 20:51:36,660 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:37,742 https://medium.com:443 "GET /@georgekao HTTP/1.1" 301 63
+2022-03-12 20:51:37,745 Starting new HTTPS connection (1): georgekao.medium.com:443
+2022-03-12 20:51:39,018 https://georgekao.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:39,167 Launching the function get_medium_page_data
+2022-03-12 20:51:39,170 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:40,291 https://medium.com:443 "GET /@cathygoodwin HTTP/1.1" 301 66
+2022-03-12 20:51:40,294 Starting new HTTPS connection (1): cathygoodwin.medium.com:443
+2022-03-12 20:51:41,220 https://cathygoodwin.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:41,386 Launching the function predict_medium_account
+2022-03-12 20:51:41,387 Launching the function get_medium_page_data
+2022-03-12 20:51:41,389 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:42,446 https://medium.com:443 "GET /@nick-nolan HTTP/1.1" 301 64
+2022-03-12 20:51:42,449 Starting new HTTPS connection (1): nick-nolan.medium.com:443
+2022-03-12 20:51:44,290 https://nick-nolan.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:44,462 Launching the function get_medium_page_data
+2022-03-12 20:51:44,464 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:45,643 https://medium.com:443 "GET /@ngoeke HTTP/1.1" 301 60
+2022-03-12 20:51:45,646 Starting new HTTPS connection (1): ngoeke.medium.com:443
+2022-03-12 20:51:46,871 https://ngoeke.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:47,030 Launching the function get_medium_page_data
+2022-03-12 20:51:47,032 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:47,953 https://medium.com:443 "GET /@timdenning HTTP/1.1" 301 64
+2022-03-12 20:51:47,956 Starting new HTTPS connection (1): timdenning.medium.com:443
+2022-03-12 20:51:48,859 https://timdenning.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:49,032 Launching the function get_medium_page_data
+2022-03-12 20:51:49,034 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:50,407 https://medium.com:443 "GET /@kellilang HTTP/1.1" 200 None
+2022-03-12 20:51:50,580 Launching the function predict_medium_account
+2022-03-12 20:51:50,581 Launching the function get_medium_page_data
+2022-03-12 20:51:50,583 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:51,992 https://medium.com:443 "GET /@greta.dias HTTP/1.1" 200 None
+2022-03-12 20:51:52,159 Launching the function predict_medium_account
+2022-03-12 20:51:52,160 Launching the function get_medium_page_data
+2022-03-12 20:51:52,162 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:53,187 https://medium.com:443 "GET /@zoestellaxy HTTP/1.1" 301 65
+2022-03-12 20:51:53,191 Starting new HTTPS connection (1): zoestellaxy.medium.com:443
+2022-03-12 20:51:54,195 https://zoestellaxy.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:54,354 Launching the function predict_medium_account
+2022-03-12 20:51:54,355 Launching the function get_medium_page_data
+2022-03-12 20:51:54,357 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:55,631 https://medium.com:443 "GET /@goodmenproject HTTP/1.1" 301 68
+2022-03-12 20:51:55,634 Starting new HTTPS connection (1): goodmenproject.medium.com:443
+2022-03-12 20:51:56,901 https://goodmenproject.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:51:57,137 Launching the function get_medium_page_data
+2022-03-12 20:51:57,139 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:51:58,891 https://medium.com:443 "GET /@johnwelford15 HTTP/1.1" 200 None
+2022-03-12 20:51:59,096 Launching the function predict_medium_account
+2022-03-12 20:51:59,097 Launching the function get_medium_page_data
+2022-03-12 20:51:59,099 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:52:00,085 https://medium.com:443 "GET /@profgalloway HTTP/1.1" 200 None
+2022-03-12 20:52:00,250 Launching the function get_medium_page_data
+2022-03-12 20:52:00,252 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:52:00,742 https://medium.com:443 "GET /@jerinenicole HTTP/1.1" 301 66
+2022-03-12 20:52:00,745 Starting new HTTPS connection (1): jerinenicole.medium.com:443
+2022-03-12 20:52:01,790 https://jerinenicole.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:52:01,987 function returned an Exception with message: 'NoneType' object has no attribute 'findAll'
+2022-03-12 20:52:01,987 Launching the function get_medium_page_data
+2022-03-12 20:52:01,989 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:52:02,999 https://medium.com:443 "GET /@coachtony HTTP/1.1" 301 63
+2022-03-12 20:52:03,003 Starting new HTTPS connection (1): coachtony.medium.com:443
+2022-03-12 20:52:04,743 https://coachtony.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:52:04,919 Launching the function predict_medium_account
+2022-03-12 20:52:04,920 Launching the function get_medium_page_data
+2022-03-12 20:52:04,922 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:52:05,891 https://medium.com:443 "GET /@kokumura HTTP/1.1" 301 62
+2022-03-12 20:52:05,894 Starting new HTTPS connection (1): kokumura.medium.com:443
+2022-03-12 20:52:06,872 https://kokumura.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:52:07,039 Launching the function predict_medium_account
+2022-03-12 20:52:07,040 Launching the function get_medium_page_data
+2022-03-12 20:52:07,042 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:52:07,916 https://medium.com:443 "GET /@riatagulinao HTTP/1.1" 301 66
+2022-03-12 20:52:07,919 Starting new HTTPS connection (1): riatagulinao.medium.com:443
+2022-03-12 20:52:13,422 https://riatagulinao.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:52:13,587 Launching the function predict_medium_account
+2022-03-12 20:52:13,588 Launching the function get_medium_page_data
+2022-03-12 20:52:13,590 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:52:14,760 https://medium.com:443 "GET /@marilynflower HTTP/1.1" 301 67
+2022-03-12 20:52:14,763 Starting new HTTPS connection (1): marilynflower.medium.com:443
+2022-03-12 20:52:15,979 https://marilynflower.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:52:16,157 Launching the function predict_medium_account
+2022-03-12 20:52:16,158 Launching the function get_medium_page_data
+2022-03-12 20:52:16,161 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:52:17,172 https://medium.com:443 "GET /@marshmallowsmut HTTP/1.1" 301 69
+2022-03-12 20:52:17,175 Starting new HTTPS connection (1): marshmallowsmut.medium.com:443
+2022-03-12 20:52:18,561 https://marshmallowsmut.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:52:18,737 Launching the function predict_medium_account
+2022-03-12 20:52:18,738 Launching the function get_medium_page_data
+2022-03-12 20:52:18,741 Starting new HTTPS connection (1): medium.com:443
+2022-03-12 20:52:19,566 https://medium.com:443 "GET /@bob-merckel HTTP/1.1" 301 65
+2022-03-12 20:52:19,569 Starting new HTTPS connection (1): bob-merckel.medium.com:443
+2022-03-12 20:52:20,871 https://bob-merckel.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-12 20:52:21,036 Launching the function predict_medium_account
+2022-03-12 20:52:21,038 Launching the function store_accounts_data
+2022-03-13 01:41:54,130 Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<Kernel.poll_control_queue() running at C:\Users\aouna\anaconda3\lib\site-packages\ipykernel\kernelbase.py:227> wait_for=<Future finished result=<Future at 0x...state=pending>> cb=[_chain_future.<locals>._call_set_state() at C:\Users\aouna\anaconda3\lib\asyncio\futures.py:391]>
+2022-03-13 12:44:10,622 Launching the function predict_medium_account
+2022-03-13 12:44:10,718 Launching the function get_medium_page_data
+2022-03-13 12:44:10,720 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:44:12,000 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 12:56:49,234 Launching the function collect_medium_accounts
+2022-03-13 12:56:49,234 Launching the function get_medium_page_data
+2022-03-13 12:56:49,235 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:56:51,077 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 12:56:51,230 Launching the function predict_medium_account
+2022-03-13 12:56:51,248 Launching the function get_medium_page_data
+2022-03-13 12:56:51,250 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:56:52,414 https://medium.com:443 "GET /@newsmary HTTP/1.1" 200 None
+2022-03-13 12:56:52,717 Launching the function get_medium_page_data
+2022-03-13 12:56:52,719 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:56:53,960 https://medium.com:443 "GET /@glichfield HTTP/1.1" 301 64
+2022-03-13 12:56:53,962 Starting new HTTPS connection (1): glichfield.medium.com:443
+2022-03-13 12:56:55,300 https://glichfield.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 12:56:55,989 Launching the function predict_medium_account
+2022-03-13 12:56:55,989 Launching the function get_medium_page_data
+2022-03-13 12:56:55,991 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:56:57,601 https://medium.com:443 "GET /@dkthomp HTTP/1.1" 200 None
+2022-03-13 12:56:58,306 Launching the function get_medium_page_data
+2022-03-13 12:56:58,308 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:57:00,182 https://medium.com:443 "GET /@TheAtlantic HTTP/1.1" 200 None
+2022-03-13 12:57:04,264 Launching the function get_medium_page_data
+2022-03-13 12:57:04,265 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:57:05,960 https://medium.com:443 "GET /@mcwm HTTP/1.1" 301 58
+2022-03-13 12:57:05,965 Starting new HTTPS connection (1): mcwm.medium.com:443
+2022-03-13 12:57:07,833 https://mcwm.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 12:57:08,301 Launching the function get_medium_page_data
+2022-03-13 12:57:08,302 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:57:09,584 https://medium.com:443 "GET /@micahsifry HTTP/1.1" 301 64
+2022-03-13 12:57:09,586 Starting new HTTPS connection (1): micahsifry.medium.com:443
+2022-03-13 12:57:11,202 https://micahsifry.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 12:57:13,253 Launching the function get_medium_page_data
+2022-03-13 12:57:13,254 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:57:15,067 https://medium.com:443 "GET /@datasociety HTTP/1.1" 301 65
+2022-03-13 12:57:15,069 Starting new HTTPS connection (1): datasociety.medium.com:443
+2022-03-13 12:57:17,629 https://datasociety.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 12:57:17,987 Launching the function get_medium_page_data
+2022-03-13 12:57:17,988 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:57:19,491 https://medium.com:443 "GET /@rww HTTP/1.1" 301 57
+2022-03-13 12:57:19,493 Starting new HTTPS connection (1): rww.medium.com:443
+2022-03-13 12:57:21,826 https://rww.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 12:57:22,008 Launching the function get_medium_page_data
+2022-03-13 12:57:22,010 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:57:23,077 https://medium.com:443 "GET /@caityjohnstone HTTP/1.1" 301 68
+2022-03-13 12:57:23,079 Starting new HTTPS connection (1): caityjohnstone.medium.com:443
+2022-03-13 12:57:24,664 https://caityjohnstone.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 12:57:24,998 Launching the function predict_medium_account
+2022-03-13 12:57:24,999 Launching the function get_medium_page_data
+2022-03-13 12:57:25,000 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:57:29,471 https://medium.com:443 "GET /@clivethompson HTTP/1.1" 301 67
+2022-03-13 12:57:29,473 Starting new HTTPS connection (1): clivethompson.medium.com:443
+2022-03-13 12:57:31,678 https://clivethompson.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 12:57:32,119 Launching the function predict_medium_account
+2022-03-13 12:57:32,120 Launching the function get_medium_page_data
+2022-03-13 12:57:32,121 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:57:33,351 https://medium.com:443 "GET /@bobbyarlan HTTP/1.1" 200 None
+2022-03-13 12:57:33,762 Launching the function predict_medium_account
+2022-03-13 12:57:33,763 Launching the function get_medium_page_data
+2022-03-13 12:57:33,765 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:57:34,670 https://medium.com:443 "GET /@davidsperorn HTTP/1.1" 301 66
+2022-03-13 12:57:34,672 Starting new HTTPS connection (1): davidsperorn.medium.com:443
+2022-03-13 12:57:37,593 https://davidsperorn.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 12:57:38,422 function returned an Exception with message: 'NoneType' object has no attribute 'findAll'
+2022-03-13 12:57:38,422 Launching the function get_medium_page_data
+2022-03-13 12:57:38,423 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:57:39,670 https://medium.com:443 "GET /@angeliquelovesinger HTTP/1.1" 200 None
+2022-03-13 12:57:41,305 Launching the function get_medium_page_data
+2022-03-13 12:57:41,306 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:57:42,526 https://medium.com:443 "GET /@louiseedington HTTP/1.1" 301 68
+2022-03-13 12:57:42,528 Starting new HTTPS connection (1): louiseedington.medium.com:443
+2022-03-13 12:57:45,118 https://louiseedington.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 12:57:45,812 Launching the function predict_medium_account
+2022-03-13 12:57:45,813 Launching the function get_medium_page_data
+2022-03-13 12:57:45,814 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:57:46,995 https://medium.com:443 "GET /@sunnichapman HTTP/1.1" 301 66
+2022-03-13 12:57:46,997 Starting new HTTPS connection (1): sunnichapman.medium.com:443
+2022-03-13 12:57:48,331 https://sunnichapman.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 12:57:50,014 Launching the function predict_medium_account
+2022-03-13 12:57:50,015 Launching the function get_medium_page_data
+2022-03-13 12:57:50,016 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:57:51,652 https://medium.com:443 "GET /@regina-clarke7 HTTP/1.1" 301 68
+2022-03-13 12:57:51,654 Starting new HTTPS connection (1): regina-clarke7.medium.com:443
+2022-03-13 12:57:55,643 https://regina-clarke7.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 12:57:59,001 Launching the function get_medium_page_data
+2022-03-13 12:57:59,003 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:58:00,488 https://medium.com:443 "GET /@amyshearn HTTP/1.1" 301 63
+2022-03-13 12:58:00,491 Starting new HTTPS connection (1): amyshearn.medium.com:443
+2022-03-13 12:58:05,583 https://amyshearn.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 12:58:07,950 Launching the function get_medium_page_data
+2022-03-13 12:58:07,951 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:58:09,222 https://medium.com:443 "GET /@doctorow HTTP/1.1" 301 62
+2022-03-13 12:58:09,224 Starting new HTTPS connection (1): doctorow.medium.com:443
+2022-03-13 12:58:10,700 https://doctorow.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 12:58:12,990 Launching the function predict_medium_account
+2022-03-13 12:58:12,991 Launching the function get_medium_page_data
+2022-03-13 12:58:12,992 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:58:14,773 https://medium.com:443 "GET /@ossiana.tepfenhart HTTP/1.1" 200 None
+2022-03-13 12:58:18,396 Launching the function predict_medium_account
+2022-03-13 12:58:18,397 Launching the function get_medium_page_data
+2022-03-13 12:58:18,399 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:58:20,604 https://medium.com:443 "GET /@umairh HTTP/1.1" 200 None
+2022-03-13 12:58:22,369 function returned an Exception with message: 'NoneType' object has no attribute 'findAll'
+2022-03-13 12:58:22,369 Launching the function get_medium_page_data
+2022-03-13 12:58:22,370 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 12:58:23,435 https://medium.com:443 "GET /@propagandopolis HTTP/1.1" 200 None
+2022-03-13 12:58:23,750 Launching the function predict_medium_account
+2022-03-13 12:58:23,751 Launching the function store_accounts_data
+2022-03-13 13:02:28,888 Launching the function calculate_model_scores
+2022-03-13 13:02:28,918 Launching the function predict_medium_account
+2022-03-13 13:02:28,919 Launching the function predict_medium_account
+2022-03-13 13:02:28,920 Launching the function predict_medium_account
+2022-03-13 13:02:28,920 Launching the function predict_medium_account
+2022-03-13 13:02:28,921 Launching the function predict_medium_account
+2022-03-13 13:02:28,922 Launching the function predict_medium_account
+2022-03-13 13:02:28,922 Launching the function predict_medium_account
+2022-03-13 13:02:28,923 Launching the function predict_medium_account
+2022-03-13 13:02:28,924 Launching the function predict_medium_account
+2022-03-13 13:02:28,924 Launching the function predict_medium_account
+2022-03-13 13:02:28,925 Launching the function predict_medium_account
+2022-03-13 13:02:28,925 Launching the function predict_medium_account
+2022-03-13 13:02:28,926 Launching the function predict_medium_account
+2022-03-13 13:02:28,927 Launching the function predict_medium_account
+2022-03-13 13:02:28,927 Launching the function predict_medium_account
+2022-03-13 13:02:28,928 Launching the function predict_medium_account
+2022-03-13 13:02:28,928 Launching the function predict_medium_account
+2022-03-13 13:02:28,929 Launching the function predict_medium_account
+2022-03-13 13:02:28,930 Launching the function predict_medium_account
+2022-03-13 13:02:28,930 Launching the function predict_medium_account
+2022-03-13 13:02:28,931 Launching the function predict_medium_account
+2022-03-13 13:02:28,931 Launching the function predict_medium_account
+2022-03-13 13:02:28,932 Launching the function predict_medium_account
+2022-03-13 13:02:28,933 Launching the function predict_medium_account
+2022-03-13 13:02:28,933 Launching the function predict_medium_account
+2022-03-13 13:02:28,934 Launching the function predict_medium_account
+2022-03-13 13:02:28,934 Launching the function predict_medium_account
+2022-03-13 13:02:28,935 Launching the function predict_medium_account
+2022-03-13 13:02:28,936 Launching the function predict_medium_account
+2022-03-13 13:02:28,936 Launching the function predict_medium_account
+2022-03-13 13:02:28,937 Launching the function predict_medium_account
+2022-03-13 13:02:28,937 Launching the function predict_medium_account
+2022-03-13 13:02:28,938 Launching the function predict_medium_account
+2022-03-13 13:02:28,939 Launching the function predict_medium_account
+2022-03-13 13:02:28,939 Launching the function predict_medium_account
+2022-03-13 13:02:28,940 Launching the function predict_medium_account
+2022-03-13 13:02:28,940 Launching the function predict_medium_account
+2022-03-13 13:02:28,941 Launching the function predict_medium_account
+2022-03-13 13:02:28,942 Launching the function predict_medium_account
+2022-03-13 13:02:28,942 Launching the function predict_medium_account
+2022-03-13 13:02:28,943 Launching the function predict_medium_account
+2022-03-13 13:02:28,943 Launching the function predict_medium_account
+2022-03-13 13:02:28,944 Launching the function predict_medium_account
+2022-03-13 13:02:28,944 Launching the function predict_medium_account
+2022-03-13 13:02:28,945 Launching the function predict_medium_account
+2022-03-13 13:02:28,945 Launching the function predict_medium_account
+2022-03-13 13:02:28,946 Launching the function predict_medium_account
+2022-03-13 13:02:28,947 Launching the function predict_medium_account
+2022-03-13 13:02:28,947 Launching the function predict_medium_account
+2022-03-13 13:02:28,948 Launching the function predict_medium_account
+2022-03-13 13:02:28,948 Launching the function predict_medium_account
+2022-03-13 13:02:28,949 Launching the function predict_medium_account
+2022-03-13 13:02:28,950 Launching the function predict_medium_account
+2022-03-13 13:02:28,950 Launching the function predict_medium_account
+2022-03-13 13:02:28,951 Launching the function predict_medium_account
+2022-03-13 13:02:28,951 Launching the function predict_medium_account
+2022-03-13 13:02:28,952 Launching the function predict_medium_account
+2022-03-13 13:02:28,952 Launching the function predict_medium_account
+2022-03-13 13:02:28,953 Launching the function predict_medium_account
+2022-03-13 13:02:28,954 Launching the function predict_medium_account
+2022-03-13 13:02:28,954 Launching the function predict_medium_account
+2022-03-13 13:02:28,955 Launching the function predict_medium_account
+2022-03-13 13:02:28,956 Launching the function predict_medium_account
+2022-03-13 13:02:28,956 Launching the function predict_medium_account
+2022-03-13 13:02:28,957 Launching the function predict_medium_account
+2022-03-13 13:02:28,957 Launching the function predict_medium_account
+2022-03-13 13:02:28,958 Launching the function predict_medium_account
+2022-03-13 13:02:28,959 Launching the function predict_medium_account
+2022-03-13 13:02:28,959 Launching the function predict_medium_account
+2022-03-13 13:02:28,960 Launching the function predict_medium_account
+2022-03-13 13:02:28,960 Launching the function predict_medium_account
+2022-03-13 13:02:28,961 Launching the function predict_medium_account
+2022-03-13 13:02:28,961 Launching the function predict_medium_account
+2022-03-13 13:02:28,962 Launching the function predict_medium_account
+2022-03-13 13:02:28,963 Launching the function predict_medium_account
+2022-03-13 13:02:28,963 Launching the function predict_medium_account
+2022-03-13 13:02:28,964 Launching the function predict_medium_account
+2022-03-13 13:02:28,964 Launching the function predict_medium_account
+2022-03-13 13:02:28,965 Launching the function predict_medium_account
+2022-03-13 13:02:28,965 Launching the function predict_medium_account
+2022-03-13 13:02:28,966 Launching the function predict_medium_account
+2022-03-13 13:02:28,967 Launching the function predict_medium_account
+2022-03-13 13:02:28,967 Launching the function predict_medium_account
+2022-03-13 13:02:28,968 Launching the function predict_medium_account
+2022-03-13 13:02:28,968 Launching the function predict_medium_account
+2022-03-13 13:02:28,969 Launching the function predict_medium_account
+2022-03-13 13:02:28,970 Launching the function predict_medium_account
+2022-03-13 13:02:28,970 Launching the function predict_medium_account
+2022-03-13 13:02:28,971 Launching the function predict_medium_account
+2022-03-13 13:02:28,971 Launching the function predict_medium_account
+2022-03-13 13:02:28,972 Launching the function predict_medium_account
+2022-03-13 13:02:28,973 Launching the function predict_medium_account
+2022-03-13 13:02:28,973 Launching the function predict_medium_account
+2022-03-13 13:02:28,974 Launching the function predict_medium_account
+2022-03-13 13:02:28,974 Launching the function predict_medium_account
+2022-03-13 13:02:28,975 Launching the function predict_medium_account
+2022-03-13 13:02:28,975 Launching the function predict_medium_account
+2022-03-13 13:02:28,976 Launching the function predict_medium_account
+2022-03-13 13:02:28,977 Launching the function predict_medium_account
+2022-03-13 13:02:28,977 Launching the function predict_medium_account
+2022-03-13 13:04:01,504 Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<Kernel.poll_control_queue() running at C:\Users\aouna\anaconda3\lib\site-packages\ipykernel\kernelbase.py:227> wait_for=<Future finished result=<Future at 0x...state=pending>> cb=[_chain_future.<locals>._call_set_state() at C:\Users\aouna\anaconda3\lib\asyncio\futures.py:391]>
+2022-03-13 13:13:33,484 Launching the function collect_medium_accounts
+2022-03-13 13:13:33,484 Launching the function get_medium_page_data
+2022-03-13 13:13:33,486 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 13:13:36,127 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 13:13:36,616 Launching the function predict_medium_account
+2022-03-13 13:13:36,649 Launching the function get_medium_page_data
+2022-03-13 13:13:36,651 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 13:13:38,280 https://medium.com:443 "GET /@newsmary HTTP/1.1" 200 None
+2022-03-13 13:13:38,900 Launching the function get_medium_page_data
+2022-03-13 13:13:38,901 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 13:13:39,505 https://medium.com:443 "GET /@glichfield HTTP/1.1" 301 64
+2022-03-13 13:13:39,508 Starting new HTTPS connection (1): glichfield.medium.com:443
+2022-03-13 13:13:40,171 https://glichfield.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 13:13:40,314 Launching the function predict_medium_account
+2022-03-13 13:13:40,315 Launching the function store_accounts_data
+2022-03-13 13:33:47,830 Launching the function get_medium_page_data
+2022-03-13 13:33:47,832 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 13:33:49,625 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 13:46:36,599 Launching the function collect_medium_accounts
+2022-03-13 13:46:36,599 Launching the function get_medium_page_data
+2022-03-13 13:46:36,601 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 13:46:37,657 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 13:46:37,797 Launching the function get_medium_page_data
+2022-03-13 13:46:37,798 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 13:46:38,625 https://medium.com:443 "GET /@newsmary HTTP/1.1" 200 None
+2022-03-13 13:46:38,732 Launching the function get_medium_page_data
+2022-03-13 13:46:38,733 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 13:46:39,648 https://medium.com:443 "GET /@glichfield HTTP/1.1" 301 64
+2022-03-13 13:46:39,649 Starting new HTTPS connection (1): glichfield.medium.com:443
+2022-03-13 13:46:41,083 https://glichfield.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:02:54,291 Launching the function collect_medium_accounts
+2022-03-13 14:02:54,291 Launching the function get_medium_page_data
+2022-03-13 14:02:54,294 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:02:55,383 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:02:55,524 Launching the function predict_medium_account
+2022-03-13 14:02:55,561 Launching the function get_medium_page_data
+2022-03-13 14:02:55,563 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:02:58,667 https://medium.com:443 "GET /@newsmary HTTP/1.1" 200 None
+2022-03-13 14:02:58,774 Launching the function get_medium_page_data
+2022-03-13 14:02:58,775 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:02:59,478 https://medium.com:443 "GET /@glichfield HTTP/1.1" 301 64
+2022-03-13 14:02:59,480 Starting new HTTPS connection (1): glichfield.medium.com:443
+2022-03-13 14:03:00,226 https://glichfield.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:03:00,329 Launching the function predict_medium_account
+2022-03-13 14:03:00,330 Launching the function get_medium_page_data
+2022-03-13 14:03:00,331 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:03:02,044 https://medium.com:443 "GET /@dkthomp HTTP/1.1" 200 None
+2022-03-13 14:03:02,228 Launching the function get_medium_page_data
+2022-03-13 14:03:02,230 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:03:03,613 https://medium.com:443 "GET /@TheAtlantic HTTP/1.1" 200 None
+2022-03-13 14:03:03,773 Launching the function get_medium_page_data
+2022-03-13 14:03:03,774 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:03:04,695 https://medium.com:443 "GET /@mcwm HTTP/1.1" 301 58
+2022-03-13 14:03:04,697 Starting new HTTPS connection (1): mcwm.medium.com:443
+2022-03-13 14:03:05,785 https://mcwm.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:03:05,926 Launching the function get_medium_page_data
+2022-03-13 14:03:05,928 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:03:06,759 https://medium.com:443 "GET /@micahsifry HTTP/1.1" 301 64
+2022-03-13 14:03:06,761 Starting new HTTPS connection (1): micahsifry.medium.com:443
+2022-03-13 14:03:07,725 https://micahsifry.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:03:07,902 Launching the function get_medium_page_data
+2022-03-13 14:03:07,903 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:03:08,979 https://medium.com:443 "GET /@datasociety HTTP/1.1" 301 65
+2022-03-13 14:03:08,981 Starting new HTTPS connection (1): datasociety.medium.com:443
+2022-03-13 14:03:09,935 https://datasociety.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:03:10,082 Launching the function get_medium_page_data
+2022-03-13 14:03:10,083 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:03:10,838 https://medium.com:443 "GET /@rww HTTP/1.1" 301 57
+2022-03-13 14:03:10,840 Starting new HTTPS connection (1): rww.medium.com:443
+2022-03-13 14:03:12,040 https://rww.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:03:12,196 Launching the function get_medium_page_data
+2022-03-13 14:03:12,197 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:03:12,650 https://medium.com:443 "GET /@caityjohnstone HTTP/1.1" 301 68
+2022-03-13 14:03:12,652 Starting new HTTPS connection (1): caityjohnstone.medium.com:443
+2022-03-13 14:03:13,499 https://caityjohnstone.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:03:13,663 function returned an Exception with message: 'NoneType' object has no attribute 'findAll'
+2022-03-13 14:03:13,664 Launching the function get_medium_page_data
+2022-03-13 14:03:13,665 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:03:14,878 https://medium.com:443 "GET /@clivethompson HTTP/1.1" 301 67
+2022-03-13 14:03:14,880 Starting new HTTPS connection (1): clivethompson.medium.com:443
+2022-03-13 14:03:15,934 https://clivethompson.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:03:16,102 Launching the function predict_medium_account
+2022-03-13 14:03:16,103 Launching the function get_medium_page_data
+2022-03-13 14:03:16,104 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:03:17,205 https://medium.com:443 "GET /@regina-clarke7 HTTP/1.1" 301 68
+2022-03-13 14:03:17,207 Starting new HTTPS connection (1): regina-clarke7.medium.com:443
+2022-03-13 14:03:18,335 https://regina-clarke7.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:03:18,531 Launching the function get_medium_page_data
+2022-03-13 14:03:18,532 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:03:18,961 https://medium.com:443 "GET /@amyshearn HTTP/1.1" 301 63
+2022-03-13 14:03:18,963 Starting new HTTPS connection (1): amyshearn.medium.com:443
+2022-03-13 14:03:20,141 https://amyshearn.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:03:20,308 function returned an Exception with message: 'NoneType' object has no attribute 'findAll'
+2022-03-13 14:03:20,308 Launching the function get_medium_page_data
+2022-03-13 14:03:20,310 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:03:21,600 https://medium.com:443 "GET /@doctorow HTTP/1.1" 301 62
+2022-03-13 14:03:21,602 Starting new HTTPS connection (1): doctorow.medium.com:443
+2022-03-13 14:03:22,934 https://doctorow.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:03:23,099 Launching the function predict_medium_account
+2022-03-13 14:03:23,100 Launching the function get_medium_page_data
+2022-03-13 14:03:23,101 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:03:24,202 https://medium.com:443 "GET /@ossiana.tepfenhart HTTP/1.1" 200 None
+2022-03-13 14:03:24,356 Launching the function predict_medium_account
+2022-03-13 14:06:19,787 Launching the function collect_medium_accounts
+2022-03-13 14:06:19,787 Launching the function get_medium_page_data
+2022-03-13 14:06:19,790 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:06:21,027 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:06:21,335 Launching the function predict_medium_account
+2022-03-13 14:06:21,371 Launching the function get_medium_page_data
+2022-03-13 14:06:21,373 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:06:22,373 https://medium.com:443 "GET /@newsmary HTTP/1.1" 200 None
+2022-03-13 14:06:22,483 Launching the function get_medium_page_data
+2022-03-13 14:06:22,484 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:06:23,393 https://medium.com:443 "GET /@glichfield HTTP/1.1" 301 64
+2022-03-13 14:06:23,395 Starting new HTTPS connection (1): glichfield.medium.com:443
+2022-03-13 14:06:24,027 https://glichfield.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:06:24,131 Launching the function predict_medium_account
+2022-03-13 14:12:54,760 Launching the function get_medium_page_data
+2022-03-13 14:12:54,763 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:12:55,880 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:12:56,029 function returned an Exception with message: 'NoneType' object has no attribute 'findAll'
+2022-03-13 14:12:56,030 Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\aouna\anaconda3\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\aouna\anaconda3\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\aouna\anaconda3\lib\site-packages\fastapi\applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\aouna\anaconda3\lib\site-packages\starlette\applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\aouna\anaconda3\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc from None
+  File "C:\Users\aouna\anaconda3\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\aouna\anaconda3\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc from None
+  File "C:\Users\aouna\anaconda3\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\aouna\anaconda3\lib\site-packages\starlette\routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\aouna\anaconda3\lib\site-packages\starlette\routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\aouna\anaconda3\lib\site-packages\starlette\routing.py", line 41, in app
+    response = await func(request)
+  File "C:\Users\aouna\anaconda3\lib\site-packages\fastapi\routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\aouna\anaconda3\lib\site-packages\fastapi\routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "C:\Users\aouna\anaconda3\lib\site-packages\starlette\concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "C:\Users\aouna\anaconda3\lib\concurrent\futures\thread.py", line 52, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\MediumProject\scripts\.\predictionApi.py", line 31, in predict_user
+    user_data_dict = json.loads(get_medium_page_data(user_id))
+  File "C:\Users\aouna\anaconda3\lib\json\__init__.py", line 339, in loads
+    raise TypeError(f'the JSON object must be str, bytes or bytearray, '
+TypeError: the JSON object must be str, bytes or bytearray, not NoneType
+2022-03-13 14:14:18,859 Launching the function get_medium_page_data
+2022-03-13 14:14:18,861 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:14:19,824 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:14:19,970 Launching the function get_medium_page_data
+2022-03-13 14:14:19,971 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:14:20,827 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:14:20,922 Launching the function get_medium_page_data
+2022-03-13 14:14:20,923 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:14:20,969 Launching the function predict_medium_account
+2022-03-13 14:14:21,807 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:14:21,949 Launching the function get_medium_page_data
+2022-03-13 14:14:21,950 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:14:23,125 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:14:23,268 Launching the function predict_medium_account
+2022-03-13 14:15:13,380 Launching the function predict_medium_account
+2022-03-13 14:15:13,380 Launching the function get_medium_page_data
+2022-03-13 14:15:13,382 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:15:14,659 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:15:36,614 Launching the function predict_medium_account
+2022-03-13 14:15:36,646 Launching the function get_medium_page_data
+2022-03-13 14:15:36,648 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:15:37,659 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:15:40,860 Launching the function get_medium_page_data
+2022-03-13 14:15:40,862 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:15:41,715 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:15:41,858 Launching the function get_medium_page_data
+2022-03-13 14:15:41,859 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:15:42,832 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:15:42,977 Launching the function predict_medium_account
+2022-03-13 14:21:43,267 Launching the function get_medium_page_data
+2022-03-13 14:21:43,269 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:21:44,386 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:21:44,527 Launching the function get_medium_page_data
+2022-03-13 14:21:44,528 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:21:45,374 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:21:45,517 Launching the function predict_medium_account
+2022-03-13 14:23:19,609 Launching the function get_medium_page_data
+2022-03-13 14:23:19,611 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:23:20,745 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:23:20,884 Launching the function get_medium_page_data
+2022-03-13 14:23:20,885 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:23:21,775 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:23:21,915 Launching the function predict_medium_account
+2022-03-13 14:24:08,134 Launching the function get_medium_page_data
+2022-03-13 14:24:08,135 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:24:08,954 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:24:09,095 Launching the function get_medium_page_data
+2022-03-13 14:24:09,097 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:24:10,428 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:24:10,570 Launching the function predict_medium_account
+2022-03-13 14:25:17,659 Launching the function get_medium_page_data
+2022-03-13 14:25:17,661 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:25:18,649 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:25:18,791 Launching the function get_medium_page_data
+2022-03-13 14:25:18,792 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:25:19,834 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:25:19,975 Launching the function predict_medium_account
+2022-03-13 14:25:22,252 Launching the function predict_medium_account
+2022-03-13 14:25:22,253 Launching the function get_medium_page_data
+2022-03-13 14:25:22,254 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:25:23,441 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:25:43,905 Launching the function collect_medium_accounts
+2022-03-13 14:25:43,905 Launching the function get_medium_page_data
+2022-03-13 14:25:43,907 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:25:44,953 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 14:25:45,092 Launching the function predict_medium_account
+2022-03-13 14:25:45,094 Launching the function get_medium_page_data
+2022-03-13 14:25:45,095 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:25:46,470 https://medium.com:443 "GET /@newsmary HTTP/1.1" 200 None
+2022-03-13 14:25:46,586 Launching the function get_medium_page_data
+2022-03-13 14:25:46,587 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:25:47,636 https://medium.com:443 "GET /@glichfield HTTP/1.1" 301 64
+2022-03-13 14:25:47,638 Starting new HTTPS connection (1): glichfield.medium.com:443
+2022-03-13 14:25:48,753 https://glichfield.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:25:48,854 Launching the function predict_medium_account
+2022-03-13 14:25:48,855 Launching the function get_medium_page_data
+2022-03-13 14:25:48,856 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:25:50,015 https://medium.com:443 "GET /@dkthomp HTTP/1.1" 200 None
+2022-03-13 14:25:50,195 Launching the function get_medium_page_data
+2022-03-13 14:25:50,196 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:25:51,206 https://medium.com:443 "GET /@TheAtlantic HTTP/1.1" 200 None
+2022-03-13 14:25:51,366 Launching the function get_medium_page_data
+2022-03-13 14:25:51,367 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:25:53,958 https://medium.com:443 "GET /@mcwm HTTP/1.1" 301 58
+2022-03-13 14:25:53,960 Starting new HTTPS connection (1): mcwm.medium.com:443
+2022-03-13 14:25:55,374 https://mcwm.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:25:55,516 Launching the function get_medium_page_data
+2022-03-13 14:25:55,517 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:25:56,238 https://medium.com:443 "GET /@micahsifry HTTP/1.1" 301 64
+2022-03-13 14:25:56,240 Starting new HTTPS connection (1): micahsifry.medium.com:443
+2022-03-13 14:25:57,222 https://micahsifry.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:25:57,379 Launching the function get_medium_page_data
+2022-03-13 14:25:57,380 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:25:58,338 https://medium.com:443 "GET /@datasociety HTTP/1.1" 301 65
+2022-03-13 14:25:58,340 Starting new HTTPS connection (1): datasociety.medium.com:443
+2022-03-13 14:26:00,064 https://datasociety.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:26:00,218 Launching the function get_medium_page_data
+2022-03-13 14:26:00,219 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:26:01,307 https://medium.com:443 "GET /@rww HTTP/1.1" 301 57
+2022-03-13 14:26:01,309 Starting new HTTPS connection (1): rww.medium.com:443
+2022-03-13 14:26:02,393 https://rww.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:26:02,554 Launching the function get_medium_page_data
+2022-03-13 14:26:02,555 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:26:03,343 https://medium.com:443 "GET /@caityjohnstone HTTP/1.1" 301 68
+2022-03-13 14:26:03,345 Starting new HTTPS connection (1): caityjohnstone.medium.com:443
+2022-03-13 14:26:04,650 https://caityjohnstone.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:26:04,801 Launching the function predict_medium_account
+2022-03-13 14:26:04,802 Launching the function get_medium_page_data
+2022-03-13 14:26:04,803 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:26:05,548 https://medium.com:443 "GET /@clivethompson HTTP/1.1" 301 67
+2022-03-13 14:26:05,550 Starting new HTTPS connection (1): clivethompson.medium.com:443
+2022-03-13 14:26:06,678 https://clivethompson.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 14:26:06,842 Launching the function predict_medium_account
+2022-03-13 14:26:06,843 Launching the function get_medium_page_data
+2022-03-13 14:26:06,844 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 14:26:07,912 https://medium.com:443 "GET /@bobbyarlan HTTP/1.1" 200 None
+2022-03-13 14:26:08,057 Launching the function predict_medium_account
+2022-03-13 14:39:52,721 Launching the function account_is_in_trainingdataset
+2022-03-13 14:39:52,721 function returned an Exception with message: account_is_in_trainingdataset() missing 1 required positional argument: 'user_id'
+2022-03-13 14:40:11,759 Launching the function account_is_in_trainingdataset
+2022-03-13 15:10:08,728 Launching the function collect_medium_accounts
+2022-03-13 15:10:08,729 Launching the function get_medium_page_data
+2022-03-13 15:10:08,730 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:10:09,743 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 15:10:09,929 Launching the function predict_medium_account
+2022-03-13 15:10:09,932 Launching the function get_medium_page_data
+2022-03-13 15:10:09,933 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:10:10,819 https://medium.com:443 "GET /@newsmary HTTP/1.1" 200 None
+2022-03-13 15:10:10,925 Launching the function get_medium_page_data
+2022-03-13 15:10:10,926 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:10:11,853 https://medium.com:443 "GET /@glichfield HTTP/1.1" 301 64
+2022-03-13 15:10:11,855 Starting new HTTPS connection (1): glichfield.medium.com:443
+2022-03-13 15:10:12,642 https://glichfield.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:10:12,742 Launching the function predict_medium_account
+2022-03-13 15:10:12,744 Launching the function get_medium_page_data
+2022-03-13 15:10:12,745 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:10:13,988 https://medium.com:443 "GET /@dkthomp HTTP/1.1" 200 None
+2022-03-13 15:10:14,173 function returned an Exception with message: 'NoneType' object has no attribute 'findAll'
+2022-03-13 15:10:14,173 Launching the function get_medium_page_data
+2022-03-13 15:10:14,174 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:10:15,217 https://medium.com:443 "GET /@TheAtlantic HTTP/1.1" 200 None
+2022-03-13 15:10:15,377 Launching the function get_medium_page_data
+2022-03-13 15:10:15,378 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:10:16,285 https://medium.com:443 "GET /@mcwm HTTP/1.1" 301 58
+2022-03-13 15:10:16,287 Starting new HTTPS connection (1): mcwm.medium.com:443
+2022-03-13 15:10:18,778 https://mcwm.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:10:18,918 Launching the function get_medium_page_data
+2022-03-13 15:10:18,920 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:10:19,806 https://medium.com:443 "GET /@micahsifry HTTP/1.1" 301 64
+2022-03-13 15:10:19,808 Starting new HTTPS connection (1): micahsifry.medium.com:443
+2022-03-13 15:10:22,090 https://micahsifry.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:10:22,248 Launching the function get_medium_page_data
+2022-03-13 15:10:22,249 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:10:23,381 https://medium.com:443 "GET /@datasociety HTTP/1.1" 301 65
+2022-03-13 15:10:23,383 Starting new HTTPS connection (1): datasociety.medium.com:443
+2022-03-13 15:10:24,559 https://datasociety.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:10:24,708 Launching the function get_medium_page_data
+2022-03-13 15:10:24,709 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:10:25,585 https://medium.com:443 "GET /@rww HTTP/1.1" 301 57
+2022-03-13 15:10:25,587 Starting new HTTPS connection (1): rww.medium.com:443
+2022-03-13 15:10:26,859 https://rww.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:10:27,059 Launching the function get_medium_page_data
+2022-03-13 15:10:27,061 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:10:28,749 https://medium.com:443 "GET /@caityjohnstone HTTP/1.1" 301 68
+2022-03-13 15:10:28,751 Starting new HTTPS connection (1): caityjohnstone.medium.com:443
+2022-03-13 15:10:30,075 https://caityjohnstone.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:10:30,222 Launching the function predict_medium_account
+2022-03-13 15:10:30,223 Launching the function get_medium_page_data
+2022-03-13 15:10:30,224 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:10:31,444 https://medium.com:443 "GET /@clivethompson HTTP/1.1" 301 67
+2022-03-13 15:10:31,446 Starting new HTTPS connection (1): clivethompson.medium.com:443
+2022-03-13 15:10:32,516 https://clivethompson.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:10:32,666 Launching the function predict_medium_account
+2022-03-13 15:10:32,666 Launching the function get_medium_page_data
+2022-03-13 15:10:32,668 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:10:34,006 https://medium.com:443 "GET /@bobbyarlan HTTP/1.1" 200 None
+2022-03-13 15:10:34,169 Launching the function predict_medium_account
+2022-03-13 15:10:34,170 Launching the function store_accounts_data
+2022-03-13 15:10:34,196 function returned an Exception with message: upsert must be True or False
+2022-03-13 15:16:05,177 Launching the function collect_medium_accounts
+2022-03-13 15:16:05,177 Launching the function get_medium_page_data
+2022-03-13 15:16:05,179 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:16:06,959 https://medium.com:443 "GET /@quartz HTTP/1.1" 200 None
+2022-03-13 15:16:07,106 Launching the function predict_medium_account
+2022-03-13 15:16:07,108 Launching the function get_medium_page_data
+2022-03-13 15:16:07,109 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:16:09,012 https://medium.com:443 "GET /@newsmary HTTP/1.1" 200 None
+2022-03-13 15:16:09,117 Launching the function get_medium_page_data
+2022-03-13 15:16:09,119 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:16:09,887 https://medium.com:443 "GET /@glichfield HTTP/1.1" 301 64
+2022-03-13 15:16:09,889 Starting new HTTPS connection (1): glichfield.medium.com:443
+2022-03-13 15:16:10,918 https://glichfield.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:16:11,021 Launching the function predict_medium_account
+2022-03-13 15:16:11,022 Launching the function get_medium_page_data
+2022-03-13 15:16:11,023 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:16:12,155 https://medium.com:443 "GET /@dkthomp HTTP/1.1" 200 None
+2022-03-13 15:16:12,313 Launching the function get_medium_page_data
+2022-03-13 15:16:12,315 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:16:13,819 https://medium.com:443 "GET /@TheAtlantic HTTP/1.1" 200 None
+2022-03-13 15:16:13,982 Launching the function get_medium_page_data
+2022-03-13 15:16:13,983 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:16:15,430 https://medium.com:443 "GET /@mcwm HTTP/1.1" 301 58
+2022-03-13 15:16:15,432 Starting new HTTPS connection (1): mcwm.medium.com:443
+2022-03-13 15:16:16,708 https://mcwm.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:16:16,844 Launching the function get_medium_page_data
+2022-03-13 15:16:16,846 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:16:18,633 https://medium.com:443 "GET /@micahsifry HTTP/1.1" 301 64
+2022-03-13 15:16:18,635 Starting new HTTPS connection (1): micahsifry.medium.com:443
+2022-03-13 15:16:19,607 https://micahsifry.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:16:19,795 Launching the function get_medium_page_data
+2022-03-13 15:16:19,797 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:16:20,985 https://medium.com:443 "GET /@datasociety HTTP/1.1" 301 65
+2022-03-13 15:16:20,988 Starting new HTTPS connection (1): datasociety.medium.com:443
+2022-03-13 15:16:22,000 https://datasociety.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:16:22,150 Launching the function get_medium_page_data
+2022-03-13 15:16:22,152 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:16:23,052 https://medium.com:443 "GET /@rww HTTP/1.1" 301 57
+2022-03-13 15:16:23,054 Starting new HTTPS connection (1): rww.medium.com:443
+2022-03-13 15:16:24,023 https://rww.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:16:24,240 Launching the function get_medium_page_data
+2022-03-13 15:16:24,241 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:16:25,238 https://medium.com:443 "GET /@caityjohnstone HTTP/1.1" 301 68
+2022-03-13 15:16:25,241 Starting new HTTPS connection (1): caityjohnstone.medium.com:443
+2022-03-13 15:16:26,208 https://caityjohnstone.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:16:26,360 Launching the function predict_medium_account
+2022-03-13 15:16:26,360 Launching the function get_medium_page_data
+2022-03-13 15:16:26,362 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:16:27,311 https://medium.com:443 "GET /@clivethompson HTTP/1.1" 301 67
+2022-03-13 15:16:27,313 Starting new HTTPS connection (1): clivethompson.medium.com:443
+2022-03-13 15:16:28,714 https://clivethompson.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:16:28,876 Launching the function predict_medium_account
+2022-03-13 15:16:28,877 Launching the function get_medium_page_data
+2022-03-13 15:16:28,878 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:16:30,105 https://medium.com:443 "GET /@bobbyarlan HTTP/1.1" 200 None
+2022-03-13 15:16:30,256 Launching the function predict_medium_account
+2022-03-13 15:16:30,256 Launching the function store_accounts_data
+2022-03-13 15:29:33,229 Launching the function account_is_in_trainingdataset
+2022-03-13 15:29:49,712 Launching the function collect_medium_accounts
+2022-03-13 15:29:49,712 Launching the function get_medium_page_data
+2022-03-13 15:29:49,713 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:29:51,052 https://medium.com:443 "GET /@BessemerVP HTTP/1.1" 200 None
+2022-03-13 15:29:51,200 Launching the function get_medium_page_data
+2022-03-13 15:29:51,201 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:29:52,116 https://medium.com:443 "GET /@macfound HTTP/1.1" 301 62
+2022-03-13 15:29:52,118 Starting new HTTPS connection (1): macfound.medium.com:443
+2022-03-13 15:29:54,036 https://macfound.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:29:54,198 Launching the function get_medium_page_data
+2022-03-13 15:29:54,200 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:29:55,147 https://medium.com:443 "GET /@newenglandvc HTTP/1.1" 301 66
+2022-03-13 15:29:55,149 Starting new HTTPS connection (1): newenglandvc.medium.com:443
+2022-03-13 15:29:57,577 https://newenglandvc.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:29:57,734 Launching the function get_medium_page_data
+2022-03-13 15:29:57,735 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:29:59,095 https://medium.com:443 "GET /@glginsights HTTP/1.1" 301 65
+2022-03-13 15:29:59,098 Starting new HTTPS connection (1): glginsights.medium.com:443
+2022-03-13 15:30:01,763 https://glginsights.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:30:01,911 Launching the function get_medium_page_data
+2022-03-13 15:30:01,912 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:30:06,032 https://medium.com:443 "GET /@greylockvc HTTP/1.1" 200 None
+2022-03-13 15:30:06,160 Launching the function get_medium_page_data
+2022-03-13 15:30:06,162 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:30:07,214 https://medium.com:443 "GET /@producthunt HTTP/1.1" 200 None
+2022-03-13 15:30:07,370 function returned an Exception with message: 'NoneType' object has no attribute 'findAll'
+2022-03-13 15:30:07,370 Launching the function get_medium_page_data
+2022-03-13 15:30:07,371 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:30:08,498 https://medium.com:443 "GET /@shervin HTTP/1.1" 301 61
+2022-03-13 15:30:08,501 Starting new HTTPS connection (1): shervin.medium.com:443
+2022-03-13 15:30:09,594 https://shervin.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:30:09,728 Launching the function get_medium_page_data
+2022-03-13 15:30:09,729 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:30:10,667 https://medium.com:443 "GET /@mgs HTTP/1.1" 301 51
+2022-03-13 15:30:10,669 Starting new HTTPS connection (1): mgs.blog:443
+2022-03-13 15:30:11,183 https://mgs.blog:443 "GET / HTTP/1.1" 307 None
+2022-03-13 15:30:11,415 https://medium.com:443 "GET /m/global-identity?redirectUrl=https%3A%2F%2Fmgs.blog%2F HTTP/1.1" 302 0
+2022-03-13 15:30:12,418 https://mgs.blog:443 "GET /?gi=98f0a951f842 HTTP/1.1" 200 None
+2022-03-13 15:30:12,585 Launching the function get_medium_page_data
+2022-03-13 15:30:12,586 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:30:14,335 https://medium.com:443 "GET /@dropbox HTTP/1.1" 301 61
+2022-03-13 15:30:14,337 Starting new HTTPS connection (1): dropbox.medium.com:443
+2022-03-13 15:30:15,494 https://dropbox.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:30:15,636 Launching the function get_medium_page_data
+2022-03-13 15:30:15,638 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:30:16,541 https://medium.com:443 "GET /@redpointvc HTTP/1.1" 301 64
+2022-03-13 15:30:16,542 Starting new HTTPS connection (1): redpointvc.medium.com:443
+2022-03-13 15:30:17,528 https://redpointvc.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:30:17,677 Launching the function get_medium_page_data
+2022-03-13 15:30:17,678 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:30:19,348 https://medium.com:443 "GET /@mpd HTTP/1.1" 301 57
+2022-03-13 15:30:19,350 Starting new HTTPS connection (1): mpd.medium.com:443
+2022-03-13 15:30:20,497 https://mpd.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:30:20,637 Launching the function get_medium_page_data
+2022-03-13 15:30:20,638 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:30:21,572 https://medium.com:443 "GET /@startuphealth HTTP/1.1" 200 None
+2022-03-13 15:30:21,727 Launching the function get_medium_page_data
+2022-03-13 15:30:21,729 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:30:23,541 https://medium.com:443 "GET /@jmacofearth HTTP/1.1" 200 None
+2022-03-13 15:30:23,721 Launching the function get_medium_page_data
+2022-03-13 15:30:23,722 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 15:30:24,735 https://medium.com:443 "GET /@asimzaidi HTTP/1.1" 301 63
+2022-03-13 15:30:24,737 Starting new HTTPS connection (1): asimzaidi.medium.com:443
+2022-03-13 15:30:25,882 https://asimzaidi.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 15:42:30,344 Launching the function calculate_model_scores
+2022-03-13 15:42:30,346 Launching the function predict_medium_account
+2022-03-13 15:42:30,347 Launching the function predict_medium_account
+2022-03-13 15:42:30,348 Launching the function predict_medium_account
+2022-03-13 15:42:30,348 Launching the function predict_medium_account
+2022-03-13 15:42:30,349 Launching the function predict_medium_account
+2022-03-13 15:42:30,350 Launching the function predict_medium_account
+2022-03-13 15:42:30,350 Launching the function predict_medium_account
+2022-03-13 15:42:30,351 Launching the function predict_medium_account
+2022-03-13 15:42:30,351 Launching the function predict_medium_account
+2022-03-13 15:42:30,352 Launching the function predict_medium_account
+2022-03-13 15:42:30,353 Launching the function predict_medium_account
+2022-03-13 15:42:30,353 Launching the function predict_medium_account
+2022-03-13 15:42:30,354 Launching the function predict_medium_account
+2022-03-13 15:42:30,354 Launching the function predict_medium_account
+2022-03-13 15:42:30,355 Launching the function predict_medium_account
+2022-03-13 15:42:30,356 Launching the function predict_medium_account
+2022-03-13 15:42:30,356 Launching the function predict_medium_account
+2022-03-13 15:42:30,357 Launching the function predict_medium_account
+2022-03-13 15:42:30,357 Launching the function predict_medium_account
+2022-03-13 15:42:30,358 Launching the function predict_medium_account
+2022-03-13 15:42:30,359 Launching the function predict_medium_account
+2022-03-13 15:42:30,359 Launching the function predict_medium_account
+2022-03-13 15:42:30,360 Launching the function predict_medium_account
+2022-03-13 15:42:30,360 Launching the function predict_medium_account
+2022-03-13 15:42:30,361 Launching the function predict_medium_account
+2022-03-13 15:42:30,362 Launching the function predict_medium_account
+2022-03-13 15:42:30,362 Launching the function predict_medium_account
+2022-03-13 15:42:30,363 Launching the function predict_medium_account
+2022-03-13 15:42:30,363 Launching the function predict_medium_account
+2022-03-13 15:42:30,364 Launching the function predict_medium_account
+2022-03-13 15:42:30,365 Launching the function predict_medium_account
+2022-03-13 15:42:30,365 Launching the function predict_medium_account
+2022-03-13 15:42:30,366 Launching the function predict_medium_account
+2022-03-13 15:42:30,366 Launching the function predict_medium_account
+2022-03-13 15:42:30,367 Launching the function predict_medium_account
+2022-03-13 15:42:30,368 Launching the function predict_medium_account
+2022-03-13 15:42:30,368 Launching the function predict_medium_account
+2022-03-13 15:42:30,369 Launching the function predict_medium_account
+2022-03-13 15:42:30,369 Launching the function predict_medium_account
+2022-03-13 15:42:30,370 Launching the function predict_medium_account
+2022-03-13 15:42:30,370 Launching the function predict_medium_account
+2022-03-13 15:42:30,371 Launching the function predict_medium_account
+2022-03-13 15:42:30,372 Launching the function predict_medium_account
+2022-03-13 15:42:30,372 Launching the function predict_medium_account
+2022-03-13 15:42:30,373 Launching the function predict_medium_account
+2022-03-13 15:42:30,373 Launching the function predict_medium_account
+2022-03-13 15:42:30,374 Launching the function predict_medium_account
+2022-03-13 15:42:30,374 Launching the function predict_medium_account
+2022-03-13 15:42:30,375 Launching the function predict_medium_account
+2022-03-13 15:42:30,376 Launching the function predict_medium_account
+2022-03-13 15:42:30,376 Launching the function predict_medium_account
+2022-03-13 15:42:30,377 Launching the function predict_medium_account
+2022-03-13 15:42:30,377 Launching the function predict_medium_account
+2022-03-13 15:42:30,378 Launching the function predict_medium_account
+2022-03-13 15:42:30,378 Launching the function predict_medium_account
+2022-03-13 15:42:30,379 Launching the function predict_medium_account
+2022-03-13 15:42:30,380 Launching the function predict_medium_account
+2022-03-13 15:42:30,380 Launching the function predict_medium_account
+2022-03-13 15:42:30,381 Launching the function predict_medium_account
+2022-03-13 15:42:30,381 Launching the function predict_medium_account
+2022-03-13 15:42:30,382 Launching the function predict_medium_account
+2022-03-13 15:42:30,383 Launching the function predict_medium_account
+2022-03-13 15:42:30,383 Launching the function predict_medium_account
+2022-03-13 15:42:30,384 Launching the function predict_medium_account
+2022-03-13 15:42:30,384 Launching the function predict_medium_account
+2022-03-13 15:42:30,385 Launching the function predict_medium_account
+2022-03-13 15:42:30,385 Launching the function predict_medium_account
+2022-03-13 15:42:30,386 Launching the function predict_medium_account
+2022-03-13 15:42:30,386 Launching the function predict_medium_account
+2022-03-13 15:42:30,387 Launching the function predict_medium_account
+2022-03-13 15:42:30,388 Launching the function predict_medium_account
+2022-03-13 15:42:30,388 Launching the function predict_medium_account
+2022-03-13 15:42:30,389 Launching the function predict_medium_account
+2022-03-13 15:42:30,389 Launching the function predict_medium_account
+2022-03-13 15:42:30,390 Launching the function predict_medium_account
+2022-03-13 15:42:30,390 Launching the function predict_medium_account
+2022-03-13 15:42:30,391 Launching the function predict_medium_account
+2022-03-13 15:42:30,391 Launching the function predict_medium_account
+2022-03-13 15:42:30,392 Launching the function predict_medium_account
+2022-03-13 15:42:30,393 Launching the function predict_medium_account
+2022-03-13 15:42:30,393 Launching the function predict_medium_account
+2022-03-13 15:42:30,394 Launching the function predict_medium_account
+2022-03-13 15:42:30,394 Launching the function predict_medium_account
+2022-03-13 15:42:30,395 Launching the function predict_medium_account
+2022-03-13 15:42:30,395 Launching the function predict_medium_account
+2022-03-13 15:42:30,396 Launching the function predict_medium_account
+2022-03-13 15:42:30,397 Launching the function predict_medium_account
+2022-03-13 15:42:30,397 Launching the function predict_medium_account
+2022-03-13 15:42:30,398 Launching the function predict_medium_account
+2022-03-13 15:42:30,398 Launching the function predict_medium_account
+2022-03-13 15:42:30,399 Launching the function predict_medium_account
+2022-03-13 15:42:30,399 Launching the function predict_medium_account
+2022-03-13 15:42:30,400 Launching the function predict_medium_account
+2022-03-13 15:42:30,401 Launching the function predict_medium_account
+2022-03-13 15:42:30,401 Launching the function predict_medium_account
+2022-03-13 15:42:30,402 Launching the function predict_medium_account
+2022-03-13 15:42:30,402 Launching the function predict_medium_account
+2022-03-13 15:42:30,403 Launching the function predict_medium_account
+2022-03-13 15:42:30,403 Launching the function predict_medium_account
+2022-03-13 15:42:30,404 Launching the function predict_medium_account
+2022-03-13 17:01:33,807 Launching the function collect_medium_accounts
+2022-03-13 17:01:33,807 Launching the function get_medium_page_data
+2022-03-13 17:01:33,810 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 17:01:35,129 https://medium.com:443 "GET /@BessemerVP HTTP/1.1" 200 None
+2022-03-13 17:01:35,284 Launching the function predict_medium_account
+2022-03-13 17:01:35,383 Launching the function get_medium_page_data
+2022-03-13 17:01:35,384 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 17:01:36,651 https://medium.com:443 "GET /@greylockvc HTTP/1.1" 200 None
+2022-03-13 17:01:36,821 Launching the function predict_medium_account
+2022-03-13 17:01:36,822 Launching the function get_medium_page_data
+2022-03-13 17:01:36,823 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 17:01:38,229 https://medium.com:443 "GET /@mgs HTTP/1.1" 301 51
+2022-03-13 17:01:38,231 Starting new HTTPS connection (1): mgs.blog:443
+2022-03-13 17:01:39,516 https://mgs.blog:443 "GET / HTTP/1.1" 307 None
+2022-03-13 17:01:39,777 https://medium.com:443 "GET /m/global-identity?redirectUrl=https%3A%2F%2Fmgs.blog%2F HTTP/1.1" 302 0
+2022-03-13 17:01:40,622 https://mgs.blog:443 "GET /?gi=16876492186b HTTP/1.1" 200 None
+2022-03-13 17:01:40,802 Launching the function predict_medium_account
+2022-03-13 17:01:40,803 Launching the function get_medium_page_data
+2022-03-13 17:01:40,805 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 17:01:41,586 https://medium.com:443 "GET /@mpd HTTP/1.1" 301 57
+2022-03-13 17:01:41,588 Starting new HTTPS connection (1): mpd.medium.com:443
+2022-03-13 17:01:42,522 https://mpd.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 17:01:42,674 Launching the function predict_medium_account
+2022-03-13 17:01:42,676 Launching the function get_medium_page_data
+2022-03-13 17:01:42,677 Starting new HTTPS connection (1): medium.com:443
+2022-03-13 17:01:45,733 https://medium.com:443 "GET /@asimzaidi HTTP/1.1" 301 63
+2022-03-13 17:01:45,735 Starting new HTTPS connection (1): asimzaidi.medium.com:443
+2022-03-13 17:01:46,879 https://asimzaidi.medium.com:443 "GET / HTTP/1.1" 200 None
+2022-03-13 17:01:47,045 Launching the function predict_medium_account
+2022-03-13 17:02:16,935 Launching the function account_is_in_trainingdataset
+2022-03-13 17:02:25,569 Launching the function account_is_in_trainingdataset
+2022-03-13 17:02:32,549 Launching the function account_is_in_trainingdataset
+2022-03-13 17:02:47,859 Launching the function account_is_in_trainingdataset

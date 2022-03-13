@@ -1,0 +1,1641 @@
+[
+       {
+              "medium": "quartz",
+              "name": "Quartz",
+              "num_followers": 43000,
+              "following_top_5": [
+                     "mcwm",
+                     "TheAtlantic",
+                     "dkthomp",
+                     "glichfield",
+                     "newsmary"
+              ],
+              "all_following_link": "https://medium.com/@quartz/following",
+              "description": "Quartz is a guide to the new global economy. Sign up for the Quartz Daily Brief: http://qz.com/daily-brief/",
+              "links_of_description": [
+                     "http://qz.com/daily-brief/"
+              ],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "glichfield",
+              "name": "Gideon Lichfield",
+              "num_followers": 2900,
+              "following_top_5": [
+                     "clivethompson",
+                     "caityjohnstone",
+                     "rww",
+                     "datasociety",
+                     "micahsifry"
+              ],
+              "all_following_link": "https://medium.com/@glichfield/following",
+              "description": "Chief editor at Wired. Ex-The Economist, Quartz, MIT Technology Review. London\u279eMexico City\u279eMoscow\u279eJerusalem\u279eNYC\u279eBoston. All opinions etc etc..",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "caityjohnstone",
+              "name": "Caitlin Johnstone",
+              "num_followers": 35000,
+              "following_top_5": [
+                     "louiseedington",
+                     "angeliquelovesinger",
+                     "davidsperorn",
+                     "sunnichapman",
+                     "bobbyarlan"
+              ],
+              "all_following_link": "https://medium.com/@caityjohnstone/following",
+              "description": "I write about the end of illusions.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "clivethompson",
+              "name": "Clive Thompson",
+              "num_followers": 16700,
+              "following_top_5": [
+                     "doctorow",
+                     "ossiana.tepfenhart",
+                     "umairh",
+                     "amyshearn",
+                     "regina-clarke7"
+              ],
+              "all_following_link": "https://medium.com/@clivethompson/following",
+              "description": "I write three times a week about tech, science, culture \u2014 and how those collide. Writer for NYT mag/Wired; author of \u201cCoders\u201d and \u201cSmarter Than You Think\u201d",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "bobbyarlan",
+              "name": "Robert Arlan",
+              "num_followers": 108,
+              "following_top_5": [
+                     "caityjohnstone",
+                     "mattyberad",
+                     "xplk",
+                     "KitKlarenberg",
+                     "propagandopolis"
+              ],
+              "all_following_link": "https://medium.com/@bobbyarlan/following",
+              "description": "Writer for www.DiplomaticPost.co.uk",
+              "links_of_description": [
+                     "http://www.DiplomaticPost.co.uk"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "sunnichapman",
+              "name": "Sunni Chapman",
+              "num_followers": 110,
+              "following_top_5": [
+                     "caityjohnstone",
+                     "benjaminlefort",
+                     "ronnadetrick",
+                     "julialim",
+                     "charitywater"
+              ],
+              "all_following_link": "https://medium.com/@sunnichapman/following",
+              "description": "Writer, creator & mentor. I help people make more money doing more of what they truly love.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "davidsperorn",
+              "name": "David Spero Rn",
+              "num_followers": 805,
+              "following_top_5": [
+                     "epmcknight",
+                     "sara-melissa-frost",
+                     "dr-mehmet-yildiz",
+                     "age_of_empathy",
+                     "caityjohnstone"
+              ],
+              "all_following_link": "https://medium.com/@davidsperorn/following",
+              "description": "Writer, fighter, lover, friend, listener. Based in San Francisco. Write about Health, Economics, Spirit, Psychology, Politics",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "louiseedington",
+              "name": "Louise Edington",
+              "num_followers": 3300,
+              "following_top_5": [],
+              "all_following_link": "https://medium.com/@louiseedington/following",
+              "description": "Kick Ass Astrologer and Author. Become a Venus Enchantment member, Buy my Books or schedule a consultation. All Links at linktr.ee/louiseedington.",
+              "links_of_description": [
+                     "http://linktr.ee/louiseedington"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "umairh",
+              "name": "umair haque",
+              "num_followers": 177000,
+              "following_top_5": [
+                     "doctorow",
+                     "paulmasonnews",
+                     "rww",
+                     "renegadeinc",
+                     "mikeeisenberg"
+              ],
+              "all_following_link": "https://medium.com/@umairh/following",
+              "description": "vampire.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "ossiana.tepfenhart",
+              "name": "Ossiana Tepfenhart",
+              "num_followers": 6800,
+              "following_top_5": [
+                     "chrissiemassey1023",
+                     "timdenning",
+                     "goodmenproject",
+                     "allyfromnola",
+                     "geezenstack444"
+              ],
+              "all_following_link": "https://medium.com/@ossiana.tepfenhart/following",
+              "description": "I\u2019m a weirdo who loves to write. Deal with it. Available for hire.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "doctorow",
+              "name": "Cory Doctorow",
+              "num_followers": 71000,
+              "following_top_5": [
+                     "clivethompson",
+                     "micahsifry",
+                     "",
+                     "msf-access",
+                     "rushkoff"
+              ],
+              "all_following_link": "https://medium.com/@doctorow/following",
+              "description": "Writer, blogger, activist. Blog: https://pluralistic.net; Mailing list: https://pluralistic.net/plura-list; Twitter: https://twitter.com/doctorow",
+              "links_of_description": [
+                     "https://pluralistic.net",
+                     "https://pluralistic.net/plura-list;",
+                     "https://twitter.com/doctorow"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "propagandopolis",
+              "name": "Propagandopolis",
+              "num_followers": 47,
+              "following_top_5": [],
+              "all_following_link": "",
+              "description": "Propaganda from around the world. All posts are non-political, obviously. Follow me on Instagram @propagandopolis!",
+              "links_of_description": [],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "KitKlarenberg",
+              "name": "Kit Klarenberg",
+              "num_followers": 120,
+              "following_top_5": [
+                     "octopusintell",
+                     "alexparsons",
+                     "_sarahjane_b"
+              ],
+              "all_following_link": "https://medium.com/@KitKlarenberg/following",
+              "description": "Investigative journalist exposing state crimes against democracy. Made with the highest German attention to the wrong details.",
+              "links_of_description": [],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "mattyberad",
+              "name": "Matthew Barad",
+              "num_followers": 2400,
+              "following_top_5": [
+                     "xlauren-mx",
+                     "umairh",
+                     "hak1010",
+                     "citationsneeded",
+                     "dawndowney"
+              ],
+              "all_following_link": "https://medium.com/@mattyberad/following",
+              "description": "Writer, Activist, Leftist.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "charitywater",
+              "name": "charity: water",
+              "num_followers": 27000,
+              "following_top_5": [
+                     "stephencrose",
+                     "chadbozarth",
+                     "bjmendelson",
+                     "jmacofearth",
+                     "producthunt"
+              ],
+              "all_following_link": "https://medium.com/@charitywater/following",
+              "description": "We're a nonprofit organization on a mission to bring clean and safe drinking water to every single person on the planet.",
+              "links_of_description": [],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "julialim",
+              "name": "JULIA LIM",
+              "num_followers": 89,
+              "following_top_5": [
+                     "athirdeyeseer",
+                     "bingzhuang",
+                     "sunnichapman",
+                     "courtneychristine",
+                     "ninaszarka"
+              ],
+              "all_following_link": "https://medium.com/@julialim/following",
+              "description": "Meditations on Life & Living",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "ronnadetrick",
+              "name": "Ronna Detrick",
+              "num_followers": 1000,
+              "following_top_5": [
+                     "georgekao",
+                     "judyhansenwriter",
+                     "",
+                     "soulfulstrategist",
+                     "jeffgoins"
+              ],
+              "all_following_link": "https://medium.com/@ronnadetrick/following",
+              "description": "I work and write for women who have walked away from religion; long for powerful, sacred sources of feminine wisdom; and are determined to claim their own.",
+              "links_of_description": [],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "benjaminlefort",
+              "name": "Ben Le Fort",
+              "num_followers": 50000,
+              "following_top_5": [
+                     "timdenning",
+                     "goodmenproject",
+                     "ngoeke",
+                     "nickwignall",
+                     "chef-boyardeji"
+              ],
+              "all_following_link": "https://medium.com/@benjaminlefort/following",
+              "description": "Making of a Millionaire editor | Personal finance writer | Author of \u201cThe Financial Freedom Equation\u201d Subscribe to the MOAM newsletter: https://bit.ly/3l9m7ob",
+              "links_of_description": [
+                     "https://bit.ly/3l9m7ob"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "age_of_empathy",
+              "name": "Age of Empathy",
+              "num_followers": 6100,
+              "following_top_5": [
+                     "pmansfield",
+                     "denisejg",
+                     "smillewrahcuef",
+                     "kristinagod",
+                     "mburg1955"
+              ],
+              "all_following_link": "https://medium.com/@age_of_empathy/following",
+              "description": "Age of Empathy publication newsletters, contests, and updates published here.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "dr-mehmet-yildiz",
+              "name": "Dr Mehmet Yildiz",
+              "num_followers": 11000,
+              "following_top_5": [],
+              "all_following_link": "",
+              "description": "Technologist, Cognitive Scientist, empowering writers & readers. Founder of ILLUMINATION, curating key messages. Connection: https://digitalmehmet.com",
+              "links_of_description": [
+                     "https://digitalmehmet.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "sara-melissa-frost",
+              "name": "Melissa Frost",
+              "num_followers": 2700,
+              "following_top_5": [
+                     "coloradogirl750",
+                     "ash.taralynn",
+                     "kristinagod",
+                     "artisticvoyages",
+                     "khyatijain01"
+              ],
+              "all_following_link": "https://medium.com/@sara-melissa-frost/following",
+              "description": "Journalist. Mom. Wife. Norwegian in the U.S. Minimalist-ish.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "epmcknight",
+              "name": "EP McKnight, MEd",
+              "num_followers": 12700,
+              "following_top_5": [
+                     "joycemuchiri",
+                     "amharding",
+                     "chrissiemassey1023",
+                     "shainethomas",
+                     "RealCashTech"
+              ],
+              "all_following_link": "https://medium.com/@epmcknight/following",
+              "description": "Actress, Stage playwright, Author, Motivational Speaker, Teacher Fitness Coach. www.epmcknight.wixsite.epfitspiration Follow me: https://linktr.ee/EPMcKnight",
+              "links_of_description": [
+                     "https://linktr.ee/EPMcKnight"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "paulmasonnews",
+              "name": "Paul Mason",
+              "num_followers": 42000,
+              "following_top_5": [
+                     "doctorow",
+                     "noelito",
+                     "iranalyst",
+                     "umairh",
+                     "DFRLab"
+              ],
+              "all_following_link": "https://medium.com/@paulmasonnews/following",
+              "description": "Journalist, writer and film-maker. Former economics editor at BBC Newsnight. Author of How To Stop Fascism, published May 2021.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "geezenstack444",
+              "name": "Jade M.",
+              "num_followers": 965,
+              "following_top_5": [],
+              "all_following_link": "",
+              "description": "Jade is a Louisiana based author who loves video games and usually writes about experiences she has. https://linktr.ee/jmcculloch120",
+              "links_of_description": [
+                     "https://linktr.ee/jmcculloch120"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "timdenning",
+              "name": "Tim Denning",
+              "num_followers": 242000,
+              "following_top_5": [],
+              "all_following_link": "",
+              "description": "Aussie Blogger with 500M+ views \u2014 Writer for CNBC & Business Insider. Inspiring the world through Personal Development and Entrepreneurship \u2014 timdenning.com/mb",
+              "links_of_description": [
+                     "http://timdenning.com/mb"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "chrissiemassey1023",
+              "name": "Chrissie Marie Massey",
+              "num_followers": 1500,
+              "following_top_5": [
+                     "coloradogirl750",
+                     "samuraininja62",
+                     "darrinatkins",
+                     "friedbologna",
+                     "kristinagod"
+              ],
+              "all_following_link": "https://medium.com/@chrissiemassey1023/following",
+              "description": "Former Editorial Director Of Soap Opera Spy, Hollywood Hiccups, & Celeb Dirty Laundry \u2014 Contributed To Yahoo News, Examiner, and Inquisitr \u2014 True Crime Fanatic",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "msf-access",
+              "name": "MSF Access Campaign \u2014 Medicines Are Not a Luxury",
+              "num_followers": 1500,
+              "following_top_5": [
+                     "doctorow",
+                     "umairh",
+                     "",
+                     "USAID",
+                     "who"
+              ],
+              "all_following_link": "https://medium.com/@msf-access/following",
+              "description": "This blog is a place to reflect on our experiences working for access to medicines. For the official MSF Access Campaign website please visit msfaccess.org.",
+              "links_of_description": [
+                     "http://msfaccess.org"
+              ],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "_sarahjane_b",
+              "name": "Sarah Jane B",
+              "num_followers": 174,
+              "following_top_5": [
+                     "codepink",
+                     "renegadeinc",
+                     "bluetrue",
+                     "simonmainwaring",
+                     "ryankazanciyan"
+              ],
+              "all_following_link": "https://medium.com/@_sarahjane_b/following",
+              "description": "Assessing democracy\u2019s threat landscape in a lacklustre matrix.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "alexparsons",
+              "name": "Alex Parsons",
+              "num_followers": 92,
+              "following_top_5": [
+                     "doctorow",
+                     "dropbox",
+                     "nick-barlow",
+                     "datasociety",
+                     "lessig"
+              ],
+              "all_following_link": "https://medium.com/@alexparsons/following",
+              "description": "Democracy, data and other things.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "octopusintell",
+              "name": "Octopus Intelligence",
+              "num_followers": 5700,
+              "following_top_5": [
+                     "stephencrose",
+                     "goodmenproject",
+                     "Esty2281",
+                     "epmcknight",
+                     "johnlware"
+              ],
+              "all_following_link": "https://medium.com/@octopusintell/following",
+              "description": "We help you beat your competitors, increase revenue, protect equity investments, reduce uncertainty and risk with Competitive Intelligence & Due Diligence",
+              "links_of_description": [],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "dawndowney",
+              "name": "Dawn Downey",
+              "num_followers": 365,
+              "following_top_5": [
+                     "rstevensalder",
+                     "lizporter2019",
+                     "mjarceneaux",
+                     "gcorreiawrites",
+                     "quyma"
+              ],
+              "all_following_link": "https://medium.com/@dawndowney/following",
+              "description": "Dawn Downey writes about love and pain. Her latest book is Blindsided: Essays from the Only Black Woman in the Room. DawnDowneyBlog.com.",
+              "links_of_description": [
+                     "http://DawnDowneyBlog.com"
+              ],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "citationsneeded",
+              "name": "Citations Needed",
+              "num_followers": 574,
+              "following_top_5": [],
+              "all_following_link": "",
+              "description": "A podcast on media, power, PR, and the history of bullshit. Hosted by @WideAsleepNima and @adamjohnsonnyc.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "xlauren-mx",
+              "name": "Lauren Elizabeth",
+              "num_followers": 13400,
+              "following_top_5": [
+                     "shainethomas",
+                     "stephendalton",
+                     "louiseedington",
+                     "papworth45",
+                     "vanessatorre"
+              ],
+              "all_following_link": "https://medium.com/@xlauren-mx/following",
+              "description": "Lauren is a writer & leftist with analysis on topics related to politics & policy. She can be reached at LaurenMartinchek@gmail.com or Twitter @xlauren_mx",
+              "links_of_description": [
+                     "mailto:LaurenMartinchek@gmail.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "bjmendelson",
+              "name": "B.J. Mendelson",
+              "num_followers": 4920,
+              "following_top_5": [
+                     "clivethompson",
+                     "doctorow",
+                     "busblog",
+                     "thoughtcatalog",
+                     "2heelsandaface"
+              ],
+              "all_following_link": "https://medium.com/@bjmendelson/following",
+              "description": "B.J. Mendelson is the author of \u201cSocial Media Is Bullshit\u201d from St. Martin\u2019s Press.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "chadbozarth",
+              "name": "Chad Bozarth",
+              "num_followers": 58,
+              "following_top_5": [
+                     "mikesturm",
+                     "benparr",
+                     "wilw",
+                     "stevecase",
+                     "kimberlydeussullivan"
+              ],
+              "all_following_link": "https://medium.com/@chadbozarth/following",
+              "description": "writer, speaker, actor | www.worldmissionsadvance.org | www.chadbozarth.com",
+              "links_of_description": [
+                     "http://www.worldmissionsadvance.org",
+                     "http://www.chadbozarth.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "ninaszarka",
+              "name": "Nina Szarka",
+              "num_followers": 6900,
+              "following_top_5": [
+                     "photochopaul",
+                     "treisthename",
+                     "ClockworkF",
+                     "shanisilver",
+                     "ericsofio"
+              ],
+              "all_following_link": "https://medium.com/@ninaszarka/following",
+              "description": "Apocalypse carnival mistress, essayist, and animated story maker. orderoflostthings.com",
+              "links_of_description": [
+                     "http://orderoflostthings.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "courtneychristine",
+              "name": "Courtney Christine",
+              "num_followers": 3100,
+              "following_top_5": [
+                     "darrinatkins",
+                     "ed-it-us",
+                     "somdutt777",
+                     "gilliansisley",
+                     "ngoeke"
+              ],
+              "all_following_link": "https://medium.com/@courtneychristine/following",
+              "description": "Storyteller, social worker, solo parent. Fan of triads & alliteration. Believer that you\u2019re doing your best, given what\u2019s happened to you. FB @courtneycwrites",
+              "links_of_description": [],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "bingzhuang",
+              "name": "Bingz Huang",
+              "num_followers": 1400,
+              "following_top_5": [
+                     "denisejg",
+                     "timdenning",
+                     "mburg1955",
+                     "divinepatrickpaul",
+                     "stephendalton"
+              ],
+              "all_following_link": "https://medium.com/@bingzhuang/following",
+              "description": "Founder and Editor for Gentleness Ambassadors. Human Design Coach, Intuitive Healer, and I dance for my physical, emotional, and spiritual health. \u2728",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "athirdeyeseer",
+              "name": "Gabriele Goh",
+              "num_followers": 125,
+              "following_top_5": [
+                     "jaceloi",
+                     "qcpcapital",
+                     "chrismooneysingh",
+                     "julialim",
+                     "teodawn"
+              ],
+              "all_following_link": "https://medium.com/@athirdeyeseer/following",
+              "description": "Tarot Reader, Astrologer, Intuitive Guide and Coach@ A Third Eye Seer Check me out: https://athirdeyeseer.com",
+              "links_of_description": [
+                     "https://athirdeyeseer.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "soulfulstrategist",
+              "name": "Caroline Leon",
+              "num_followers": 145,
+              "following_top_5": [
+                     "timdenning",
+                     "ngoeke",
+                     "nick-nolan",
+                     "cathygoodwin",
+                     "georgekao"
+              ],
+              "all_following_link": "https://medium.com/@soulfulstrategist/following",
+              "description": "Conscious Business Coach helping change makers to build and grow sustainable businesses, using strategies rooted in integrity. https://carolineleon.com",
+              "links_of_description": [
+                     "https://carolineleon.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "judyhansenwriter",
+              "name": "Judy Hansen",
+              "num_followers": 353,
+              "following_top_5": [
+                     "johnwelford15",
+                     "goodmenproject",
+                     "zoestellaxy",
+                     "greta.dias",
+                     "kellilang"
+              ],
+              "all_following_link": "https://medium.com/@judyhansenwriter/following",
+              "description": "Writer, blogger, a burr in the saddle of lousy theology. Hating how the Bible has been used to subjugate women. Bad theology costs lives.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "nickwignall",
+              "name": "Nick Wignall",
+              "num_followers": 122000,
+              "following_top_5": [],
+              "all_following_link": "",
+              "description": "Psychologist and blogger. I help people use psychology for meaningful personal growth: https://nickwignall.com",
+              "links_of_description": [
+                     "https://nickwignall.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "ngoeke",
+              "name": "Niklas G\u00f6ke",
+              "num_followers": 87000,
+              "following_top_5": [
+                     "riatagulinao",
+                     "kokumura",
+                     "coachtony",
+                     "jerinenicole",
+                     "profgalloway"
+              ],
+              "all_following_link": "https://medium.com/@ngoeke/following",
+              "description": "I write for dreamers, doers, and unbroken optimists. For my best articles & book updates, go here: https://nik.art/",
+              "links_of_description": [
+                     "https://nik.art/"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "smillewrahcuef",
+              "name": "Smillew Rahcuef",
+              "num_followers": 1200,
+              "following_top_5": [
+                     "pmansfield",
+                     "glennb39",
+                     "bob-merckel",
+                     "marshmallowsmut",
+                     "marilynflower"
+              ],
+              "all_following_link": "https://medium.com/@smillewrahcuef/following",
+              "description": "VP of Imagination @CanYouImagine? \u2022 Satirist \u2022 No need to follow me, I\u2019ll show up in your feed \u2022 smillewrahcuef@gmail.com",
+              "links_of_description": [
+                     "mailto:smillewrahcuef@gmail.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "denisejg",
+              "name": "Denise G",
+              "num_followers": 629,
+              "following_top_5": [],
+              "all_following_link": "https://medium.com/@denisejg/following",
+              "description": "Writing is the path back to me and my artwork and photography a reflection of my soul.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "pmansfield",
+              "name": "Paul Mansfield",
+              "num_followers": 2000,
+              "following_top_5": [
+                     "amharding",
+                     "rialrees",
+                     "crystal-mathews",
+                     "johnwelford15",
+                     "darrinatkins"
+              ],
+              "all_following_link": "https://medium.com/@pmansfield/following",
+              "description": "A mage of the pen, whose magic springs from the telling of tales. An iconoclast who promotes all fiction, but whose love is Transgressive Fiction.",
+              "links_of_description": [],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "khyatijain01",
+              "name": "Khyati Jain",
+              "num_followers": 1000,
+              "following_top_5": [
+                     "samuraininja62",
+                     "timdenning",
+                     "mburg1955",
+                     "goodmenproject",
+                     "ngoeke"
+              ],
+              "all_following_link": "https://medium.com/@khyatijain01/following",
+              "description": "Certified Yoga Trainer. I love yoga and long naps. I write about health, fitness, lifestyle, and more. Open to writing gigs. Contact:- khyatijain0110@gmailcom",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "artisticvoyages",
+              "name": "Jillian Amatt",
+              "num_followers": 182,
+              "following_top_5": [
+                     "chrissiemassey1023",
+                     "benaiahberthran",
+                     "samuraininja62",
+                     "darrinatkins",
+                     "richard-barrett"
+              ],
+              "all_following_link": "https://medium.com/@artisticvoyages/following",
+              "description": "I have been traveling for my whole life and full-time since 2017. I am an artist, writer, and serious steward of our beloved planet. www.artisticvoyages.com",
+              "links_of_description": [
+                     "http://www.artisticvoyages.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "ash.taralynn",
+              "name": "Ash Taralynn",
+              "num_followers": 599,
+              "following_top_5": [],
+              "all_following_link": "https://medium.com/@ash.taralynn/following",
+              "description": "Blogger and first-time mommy. Recovering addict. Learning to love life and myself. Always writing and improving. Top Writer in Mental Health.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "coloradogirl750",
+              "name": "Nicole Dake",
+              "num_followers": 836,
+              "following_top_5": [
+                     "chrissiemassey1023",
+                     "sofia.chen",
+                     "crystal-mathews",
+                     "benaiahberthran",
+                     "samuraininja62"
+              ],
+              "all_following_link": "https://medium.com/@coloradogirl750/following",
+              "description": "I am a motherhood lifestyle blogger, author and mom of 3 from Colorado. https://www.millenialmom.net/ Open to freelance. coloradorigl750@gmail.com",
+              "links_of_description": [
+                     "https://www.millenialmom.net/",
+                     "mailto:coloradorigl750@gmail.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "shainethomas",
+              "name": "Shain E. Thomas",
+              "num_followers": 14500,
+              "following_top_5": [
+                     "stephendalton",
+                     "goodmenproject",
+                     "staceyherrera",
+                     "rae-gomes",
+                     "laurajohnson-70073"
+              ],
+              "all_following_link": "https://medium.com/@shainethomas/following",
+              "description": "With an M.Sc. from the University of North Texas, I\u2019m a freelance journalist and a social historian. #APStylebook #BBCStyleGuide http://shainethomas.com/",
+              "links_of_description": [
+                     "http://M.Sc",
+                     "http://shainethomas.com/"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "amharding",
+              "name": "A.M. Harding",
+              "num_followers": 152,
+              "following_top_5": [
+                     "pmansfield",
+                     "tamila_63976",
+                     "ellaheart82",
+                     "epmcknight",
+                     "marshmallowsmut"
+              ],
+              "all_following_link": "https://medium.com/@amharding/following",
+              "description": "Occasional writer of fiction that is rarely safe for Work. I like it short and intense.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "joycemuchiri",
+              "name": "Joyce Muchiri",
+              "num_followers": 140,
+              "following_top_5": [
+                     "anaaraia",
+                     "nazimozer",
+                     "1birthdayfun",
+                     "warrenblogs",
+                     "roxannebarbour"
+              ],
+              "all_following_link": "https://medium.com/@joycemuchiri/following",
+              "description": "On a Mission to Inspire You Guys. https://www.buymeacoffee.com/joycemuchiri",
+              "links_of_description": [
+                     "https://www.buymeacoffee.com/joycemuchiri"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "iranalyst",
+              "name": "Scott Burchill",
+              "num_followers": 248,
+              "following_top_5": [
+                     "paulmasonnews",
+                     "brian-whit",
+                     "jessicaelisabethreed",
+                     "nntaleb",
+                     "aeonmag"
+              ],
+              "all_following_link": "https://medium.com/@iranalyst/following",
+              "description": "Dr Scott Burchill taught International Relations at Deakin University for 30 years",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "noelito",
+              "name": "noelito",
+              "num_followers": 1800,
+              "following_top_5": [
+                     "benholliday",
+                     "greg-satell",
+                     "paulmasonnews",
+                     "umairh",
+                     "eseesea"
+              ],
+              "all_following_link": "https://medium.com/@noelito/following",
+              "description": "Head of Policy Design, Scrutiny & Partnerships @newhamlondon #localgov Co-founder of #systemschange & #servicedesign progs. inspired by @cescaalbanese",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "friedbologna",
+              "name": "Madara Greer Sr.",
+              "num_followers": 512,
+              "following_top_5": [],
+              "all_following_link": "https://medium.com/@friedbologna/following",
+              "description": "Follow, as I learned to re-adapt to the living world after being locked down in mommy town for the past 20years. I\u2019ll learn to earn an income from my experience",
+              "links_of_description": [],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "darrinatkins",
+              "name": "Darrin Atkins",
+              "num_followers": 26000,
+              "following_top_5": [
+                     "chrissiemassey1023",
+                     "frank-andrade",
+                     "meganmstockton",
+                     "shainethomas",
+                     "sofia.chen"
+              ],
+              "all_following_link": "https://medium.com/@darrinatkins/following",
+              "description": "writer and novelist. traveler and adventurer. looking for fun in the sun. chasing the dream. can't stop the feeling that time is going faster.",
+              "links_of_description": [],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "samuraininja62",
+              "name": "Khadejah",
+              "num_followers": 4400,
+              "following_top_5": [
+                     "timdenning",
+                     "gilliansisley",
+                     "ngoeke",
+                     "ericaficwriter",
+                     "treisthename"
+              ],
+              "all_following_link": "https://medium.com/@samuraininja62/following",
+              "description": "I write about life lessons, writing, social justice, and productivity. New articles published daily. Get my free writing habit guide here: https://samurain",
+              "links_of_description": [
+                     "https://samurain"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "USAID",
+              "name": "USAID",
+              "num_followers": 21000,
+              "following_top_5": [
+                     "rephuffman",
+                     "omidyarnetwork",
+                     "who",
+                     "europeancommission",
+                     "macfound"
+              ],
+              "all_following_link": "https://medium.com/@USAID/following",
+              "description": "We advance U.S. natl. security & economic prosperity, demonstrate American generosity & promote self-reliance & resilience. Privacy: http://go.usa.gov/3G4xN",
+              "links_of_description": [
+                     "http://go.usa.gov/3G4xN"
+              ],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "ryankazanciyan",
+              "name": "Ryan Kazanciyan",
+              "num_followers": 2000,
+              "following_top_5": [],
+              "all_following_link": "",
+              "description": "Security technical lead and researcher, specialized in incident response. Tech consultant for @whoismrrobot S2 & S3.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "simonmainwaring",
+              "name": "Simon Mainwaring",
+              "num_followers": 14200,
+              "following_top_5": [
+                     "bjmendelson",
+                     "jmacofearth",
+                     "connieragengreen",
+                     "mforstater",
+                     "jeffherring"
+              ],
+              "all_following_link": "https://medium.com/@simonmainwaring/following",
+              "description": "Founder/CEO brand consultancy, We First, bestselling author of We First and Lead With We, host of podcast, Lead With We.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "lessig",
+              "name": "Lessig",
+              "num_followers": 96000,
+              "following_top_5": [
+                     "doctorow",
+                     "micahsifry",
+                     "briangruber",
+                     "CyrusPatten",
+                     "ajentleson_6897"
+              ],
+              "all_following_link": "https://medium.com/@lessig/following",
+              "description": "law professor, activist.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "nick-barlow",
+              "name": "Nick Barlow",
+              "num_followers": 514,
+              "following_top_5": [
+                     "paulmasonnews",
+                     "anthonybmasters",
+                     "yaelwolfe",
+                     "katymontgomerie",
+                     "Shesreallyfat"
+              ],
+              "all_following_link": "https://medium.com/@nick-barlow/following",
+              "description": "Former academic and politician, working out what comes next. nickjbarlow on Twitter, nickbwalking on IG. Support: https://medium.com/@nick-barlow/membership",
+              "links_of_description": [
+                     "https://medium.com/@nick-barlow/membership"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "johnlware",
+              "name": "John Ware",
+              "num_followers": 332,
+              "following_top_5": [],
+              "all_following_link": "https://medium.com/@johnlware/following",
+              "description": "Long time biz turnaround & continuous improvement expert, global traveler/resident. Teach ESL/TEFL & other subjects. Write thru the lens of \u201cRisk Intelligence.\u201d",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "quyma",
+              "name": "Quy Ma",
+              "num_followers": 4800,
+              "following_top_5": [
+                     "frank-andrade",
+                     "pmansfield",
+                     "samuraininja62",
+                     "johnwelford15",
+                     "denisejg"
+              ],
+              "all_following_link": "https://medium.com/@quyma/following",
+              "description": "Founder of About Me Stories. Optimization Entrepreneur. Tech Category Manager. Passionate about economically empowering people, growing brands, and businesses.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "gcorreiawrites",
+              "name": "G Correia",
+              "num_followers": 1300,
+              "following_top_5": [],
+              "all_following_link": "https://medium.com/@gcorreiawrites/following",
+              "description": "Taking up space and proud to be average | Writing about life and trying to make sense of it all | Editor of Freethinkr | Maker of Pancakes",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "mjarceneaux",
+              "name": "Michael Arceneaux",
+              "num_followers": 9800,
+              "following_top_5": [],
+              "all_following_link": "",
+              "description": "Author of \u201cI Can\u2019t Date Jesus\u201d and \u201cI Don\u2019t Want To Die Poor.\u201d Houstonian.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "lizporter2019",
+              "name": "Liz Porter",
+              "num_followers": 2300,
+              "following_top_5": [],
+              "all_following_link": "https://medium.com/@lizporter2019/following",
+              "description": "Top Writer *Author *Founder of Boomerangs & the Advantage Publications. Writing with Truth & Humour to empower fellow writers on Medium! \u2014 selfempoweredblog.com",
+              "links_of_description": [
+                     "http://selfempoweredblog.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "rstevensalder",
+              "name": "Rebecca Stevens A.",
+              "num_followers": 12800,
+              "following_top_5": [
+                     "samuraininja62",
+                     "mburg1955",
+                     "jeonlinaffiliates",
+                     "allyfromnola",
+                     "jaredabrock"
+              ],
+              "all_following_link": "https://medium.com/@rstevensalder/following",
+              "description": "I write about racism, but there are so many other things I would like to write about instead. Help me dismantle racism so that I can get to that.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "vanessatorre",
+              "name": "Vanessa Torre",
+              "num_followers": 8200,
+              "following_top_5": [
+                     "stephendalton",
+                     "gilliansisley",
+                     "ngoeke",
+                     "jeffsuwak",
+                     "rae-gomes"
+              ],
+              "all_following_link": "https://medium.com/@vanessatorre/following",
+              "description": "Writer, editor, plant junkie, music fan, and host of \ud83c\udf99 I Hadn\u2019t Considered That, a podcast about perspectives. www.vanessatorre.com",
+              "links_of_description": [
+                     "http://www.vanessatorre.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "papworth45",
+              "name": "Alex Papworth",
+              "num_followers": 91,
+              "following_top_5": [
+                     "goodmenproject",
+                     "xlauren-mx",
+                     "emthystory",
+                     "umairh",
+                     "knight-40857"
+              ],
+              "all_following_link": "https://medium.com/@papworth45/following",
+              "description": "An adventurer who helps professionals find inspiration on their own adventure",
+              "links_of_description": [],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "stephendalton",
+              "name": "Stephen Dalton",
+              "num_followers": 4600,
+              "following_top_5": [
+                     "shainethomas",
+                     "darrinatkins",
+                     "timdenning",
+                     "mburg1955",
+                     "somdutt777"
+              ],
+              "all_following_link": "https://medium.com/@stephendalton/following",
+              "description": "Stephen Dalton is a retired US Army First Sergeant with a degree in journalism from the University of Maryland. Top Writer in VR, Short Story, and Creativity!",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "2heelsandaface",
+              "name": "2 Heels And A Face",
+              "num_followers": 28,
+              "following_top_5": [
+                     "bjmendelson",
+                     "kaelball",
+                     "Medium",
+                     "iamjeffperry",
+                     "iamrashardh"
+              ],
+              "all_following_link": "https://medium.com/@2heelsandaface/following",
+              "description": "We are a #Wrestling podcast that believes wrestling is a buffet. Every fan enjoys it differently. We celebrate our differences. http://bit.ly/2heelsandaface",
+              "links_of_description": [
+                     "http://bit.ly/2heelsandaface"
+              ],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "stevecase",
+              "name": "Steve Case",
+              "num_followers": 47000,
+              "following_top_5": [
+                     "producthunt",
+                     "startuphealth",
+                     "thoughtcatalog",
+                     "davetroy",
+                     "rww"
+              ],
+              "all_following_link": "https://medium.com/@stevecase/following",
+              "description": "Co-founder of AOL; now Chairman & CEO of Revolution and Chairman of Case Foundation; Author of \u201cThe Third Wave: An Entrepreneur\u2019s Vision of the Future\u201d",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "wilw",
+              "name": "Wil Wheaton",
+              "num_followers": 138000,
+              "following_top_5": [
+                     "doctorow",
+                     "rstevens",
+                     "barackobama",
+                     "seanbonner",
+                     "yeseniacisneros"
+              ],
+              "all_following_link": "https://medium.com/@wilw/following",
+              "description": "Wizard. Time Lord. Fake geek girl. On a good day I am charming as fuck.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "benparr",
+              "name": "Ben Parr",
+              "num_followers": 16300,
+              "following_top_5": [],
+              "all_following_link": "",
+              "description": "Founder, Investor, Author, ex-Journalist. President/Co-Founder of Octane AI | Author of Captivology | BoD of LJF | Past: CNET, Mashable | Forbes 30 Under 30",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "mikesturm",
+              "name": "Mike Sturm",
+              "num_followers": 23000,
+              "following_top_5": [
+                     "sexyhermit",
+                     "ngoeke",
+                     "treisthename",
+                     "nickwignall",
+                     "mukundarajanvn"
+              ],
+              "all_following_link": "https://medium.com/@mikesturm/following",
+              "description": "Creator: https://TheTodaySystem.com \u2014 A simpler personal productivity system. Writing about productivity, self-improvement, business, and life.",
+              "links_of_description": [
+                     "https://TheTodaySystem.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "ericsofio",
+              "name": "E. Scott Alighieri",
+              "num_followers": 3100,
+              "following_top_5": [
+                     "kdela66",
+                     "sakarilacross",
+                     "denisejg",
+                     "darrinatkins",
+                     "donnette-anglin"
+              ],
+              "all_following_link": "https://medium.com/@ericsofio/following",
+              "description": "Make it new.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "shanisilver",
+              "name": "Shani Silver",
+              "num_followers": 17300,
+              "following_top_5": [
+                     "gilliansisley",
+                     "vanessatorre",
+                     "rae-gomes",
+                     "kerncarter",
+                     "belladepaulo"
+              ],
+              "all_following_link": "https://medium.com/@shanisilver/following",
+              "description": "Author of A Single Revolution, available on Amazon. Host of A Single Serving Podcast. shanisilver[at]gmail",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "ClockworkF",
+              "name": "Joe S. Lee",
+              "num_followers": 5,
+              "following_top_5": [],
+              "all_following_link": "",
+              "description": "An ex-techie who turned to playing with dirt to find the fulfillment that was missing in their lives.",
+              "links_of_description": [],
+              "type": "company",
+              "verified": "False"
+       },
+       {
+              "medium": "treisthename",
+              "name": "Tre L. Loadholt",
+              "num_followers": 12800,
+              "following_top_5": [],
+              "all_following_link": "https://medium.com/@treisthename/following",
+              "description": "I am more than breath & bones. I am nectar in waiting. \u201cYou write like a jagged, beautiful dream.\u201d \u00a9Martha Manning \u2022https://acorneredgurl.com",
+              "links_of_description": [
+                     "https://acorneredgurl.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "photochopaul",
+              "name": "Paul Nelson",
+              "num_followers": 409,
+              "following_top_5": [
+                     "lorenwoodcuts",
+                     "zahoorarslan",
+                     "alexisbusso",
+                     "marycappelli",
+                     "patrickboniface_39584"
+              ],
+              "all_following_link": "https://medium.com/@photochopaul/following",
+              "description": "Philosophy enthusiast. Continental and post structural; specifically Foucault. Superfluous descriptions and oxymorons. Flooring installer with headphones.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "gilliansisley",
+              "name": "Gillian Sisley",
+              "num_followers": 50000,
+              "following_top_5": [
+                     "timdenning",
+                     "ngoeke",
+                     "vanessatorre",
+                     "allyfromnola",
+                     "zachjpayne"
+              ],
+              "all_following_link": "https://medium.com/@gilliansisley/following",
+              "description": "Professional online writer. Tea drinker. Committed optimist. I write about trending news, womanhood & entrepreneurship.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "somdutt777",
+              "name": "Som Dutt",
+              "num_followers": 1300,
+              "following_top_5": [],
+              "all_following_link": "",
+              "description": "I write on Philosophy, Psychology, Health, Life Lessons, Nietzsche, Personal Experiences, Self-Improvement. Let\u2019s have Coffee https://ko-fi.com/somdutt",
+              "links_of_description": [
+                     "https://ko-fi.com/somdutt"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "ed-it-us",
+              "name": "Ed-iT",
+              "num_followers": 1200,
+              "following_top_5": [],
+              "all_following_link": "https://medium.com/@ed-it-us/following",
+              "description": "Writing and publishing specialist.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "divinepatrickpaul",
+              "name": "Patrick Paul Garlinger",
+              "num_followers": 1500,
+              "following_top_5": [
+                     "storygirlca",
+                     "goodmenproject",
+                     "marilynflower",
+                     "lettersfromEK",
+                     "jillianspiridon"
+              ],
+              "all_following_link": "https://medium.com/@divinepatrickpaul/following",
+              "description": "Spiritual author and intuitive guide who illuminates our sacred connection to life.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "chrismooneysingh",
+              "name": "Chris Mooney-Singh",
+              "num_followers": 727,
+              "following_top_5": [],
+              "all_following_link": "https://medium.com/@chrismooneysingh/following",
+              "description": "Published author and educator with a doctorate in creative writing. Get my free eBooks @ https://linktr.ee/chrismooneysingh",
+              "links_of_description": [
+                     "https://linktr.ee/chrismooneysingh"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "qcpcapital",
+              "name": "QCP Capital",
+              "num_followers": 1600,
+              "following_top_5": [],
+              "all_following_link": "",
+              "description": "Digital Asset Trading Firm | https://qcp.capital/",
+              "links_of_description": [
+                     "https://qcp.capital/"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "jaceloi",
+              "name": "Jace Loi",
+              "num_followers": 238,
+              "following_top_5": [],
+              "all_following_link": "https://medium.com/@jaceloi/following",
+              "description": "Anything about the Mind, Embodiment & Living with Ease. A Mindfulness (MBCT) Teacher, Counsellor and a Mum. Visit MingMindfulness.com or Insta @Mingmindfulness.",
+              "links_of_description": [
+                     "http://MingMindfulness.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "cathygoodwin",
+              "name": "Cathy Goodwin",
+              "num_followers": 3200,
+              "following_top_5": [
+                     "timdibble",
+                     "samuraininja62",
+                     "darrinatkins",
+                     "stephencrose",
+                     "donnette-anglin"
+              ],
+              "all_following_link": "https://medium.com/@cathygoodwin/following",
+              "description": "Helping entrepreneurs and independent professionals grow their businesses one story at a time. http://cathygoodwin.com",
+              "links_of_description": [
+                     "http://cathygoodwin.com"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "kellilang",
+              "name": "K. M. Lang",
+              "num_followers": 197,
+              "following_top_5": [
+                     "darrinatkins",
+                     "meganllorente",
+                     "goodmenproject",
+                     "epmcknight",
+                     "mpdoc2021"
+              ],
+              "all_following_link": "https://medium.com/@kellilang/following",
+              "description": "I write about chronic illness, intergenerational abuse, and other mountains I\u2019ve climbed. www.kmlang.net",
+              "links_of_description": [
+                     "http://www.kmlang.net"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "greta.dias",
+              "name": "Greta Dias",
+              "num_followers": 218,
+              "following_top_5": [
+                     "aaliyahcoraxy",
+                     "keith-dias",
+                     "pauljarrigezy",
+                     "pswinter50",
+                     "abhishek1811"
+              ],
+              "all_following_link": "https://medium.com/@greta.dias/following",
+              "description": "Born in Uganda, East Africa. Wife, Mother of two, grandmother or four!",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "zoestellaxy",
+              "name": "Zoe Stella",
+              "num_followers": 3600,
+              "following_top_5": [
+                     "chrissiemassey1023",
+                     "elizabeth-kaldeck-smith",
+                     "sexyhermit",
+                     "pmansfield",
+                     "sakarilacross"
+              ],
+              "all_following_link": "https://medium.com/@zoestellaxy/following",
+              "description": "A winner is a dreamer who never gives up",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "johnwelford15",
+              "name": "John Welford",
+              "num_followers": 1700,
+              "following_top_5": [
+                     "sexyhermit",
+                     "pmansfield",
+                     "samuraininja62",
+                     "darrinatkins",
+                     "smillewrahcuef"
+              ],
+              "all_following_link": "https://medium.com/@johnwelford15/following",
+              "description": "I am a retired librarian, living in a village in Leicestershire. I write fiction and poetry, plus articles on literature, history, and much more besides.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "coachtony",
+              "name": "Coach Tony",
+              "num_followers": 31000,
+              "following_top_5": [
+                     "ngoeke",
+                     "jaredabrock",
+                     "doctorow",
+                     "riatagulinao",
+                     "davidbclear"
+              ],
+              "all_following_link": "https://medium.com/@coachtony/following",
+              "description": "Founded @coachdotme, @bttrHumans, @bttrMarketing. Helped @medium @calm. Subscribe to my newsletter, Better Humans Daily: https://coachtony.medium.com/subscribe",
+              "links_of_description": [
+                     "/subscribe"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "kokumura",
+              "name": "Kaki Okumura",
+              "num_followers": 59000,
+              "following_top_5": [
+                     "timdenning",
+                     "ngoeke",
+                     "nickwignall",
+                     "davidgerken",
+                     "georgejziogas"
+              ],
+              "all_following_link": "https://medium.com/@kokumura/following",
+              "description": "Born in Dallas, raised in New York and Tokyo. I care about helping others learn to live a better, healthier life. My site: www.kakikata.space \ud83c\udf31",
+              "links_of_description": [
+                     "http://www.kakikata.space"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "riatagulinao",
+              "name": "Ria Tagulinao",
+              "num_followers": 2100,
+              "following_top_5": [],
+              "all_following_link": "",
+              "description": "Fun-sized Filipina | Writer | Content Marketer | Enjoy all my work and all of Medium\u2019s greatest storytellers: https://riatagulinao.medium.com/membership",
+              "links_of_description": [
+                     "/membership"
+              ],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "marilynflower",
+              "name": "Marilyn Flower",
+              "num_followers": 2700,
+              "following_top_5": [
+                     "darrinatkins",
+                     "smillewrahcuef",
+                     "donnette-anglin",
+                     "timdenning",
+                     "mburg1955"
+              ],
+              "all_following_link": "https://medium.com/@marilynflower/following",
+              "description": "Writer, sacred fool, improviser, avid reader, writer, novel forthcoming, soul collage facilitator, prayer warrior and did I say writer?",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "marshmallowsmut",
+              "name": "Marsha Adams",
+              "num_followers": 275,
+              "following_top_5": [
+                     "amharding",
+                     "pmansfield",
+                     "smillewrahcuef",
+                     "asraidevin",
+                     "littlemisrightnow"
+              ],
+              "all_following_link": "https://medium.com/@marshmallowsmut/following",
+              "description": "Autistic author of psychological smut and philosophical filth. Usually found hiding behind a book.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       },
+       {
+              "medium": "bob-merckel",
+              "name": "Bob Merckel",
+              "num_followers": 1000,
+              "following_top_5": [
+                     "pmansfield",
+                     "darrinatkins",
+                     "rajalingamrathinam",
+                     "smillewrahcuef",
+                     "tamila_63976"
+              ],
+              "all_following_link": "https://medium.com/@bob-merckel/following",
+              "description": "Reader, writer, not so much arithmeticker. English teacher/language consultant in Barcelona via London, New York, Chicago, New Orleans, and Cincinnati.",
+              "links_of_description": [],
+              "type": "person",
+              "verified": "False"
+       }
+]
