@@ -81,6 +81,7 @@ String containing the scraped account data in a JSON format
 
 ### collect_medium_accounts
 this function takes the user id to start with and the number of accounts to scrape and predict and returns and stores the data in JSON format.
+the scraped and predicted accounts are not part of the training dataset.
 Parameters:
 * user_id - string: the medium id of the account to start scraping from
 * number_to_collect - integer - optional: the number of accounts to return. default is 500.
