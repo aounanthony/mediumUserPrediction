@@ -113,7 +113,7 @@ these routes are:
 * /predictMediumUser/{user_id}
 * /predictUsersStartingWith/{user_id}/{number_of_users}
 
-## requirements
+## Requirements
 this project uses the following libraries:
 * sklearn
 * bs4
