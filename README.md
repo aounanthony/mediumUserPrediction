@@ -94,11 +94,20 @@ String containing the scraped accounts data in a JSON format
 
 ### predict_medium_account
 this function opens the prediction model and performs a prediction on the provided data by scraping using a provided medium id or directly with a provided description.
+Parameters:
 * user_id - string: the medium id of the account to predict
 * description - str - optional: description to use for a prediction
 
 Returns:
 String prediction that can be "person" or "company"
+
+### account_is_in_trainingdataset
+this function returns a boolean that states whether a medium account is part of the training dataset or not.
+Parameters:
+* user_id - str : the medium id of the account to check
+
+Returns:
+Boolean True if account in training dataset, False otherwise
 
 ## Using the API
 Accessing the functions is made easier through the api which can be accessed with these steps:
